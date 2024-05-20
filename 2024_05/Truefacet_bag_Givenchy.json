@@ -1,0 +1,563 @@
+[
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 11203.529999999999,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 11203.529999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11203.529999999999
+      },
+      {
+        "date": "2024-03-07",
+        "price": 11203.529999999999
+      }
+    ],
+    "title": "Givenchy Antigona Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-leather-satchel-4020136.html",
+    "id": "truefacet-4020136",
+    "productId": "4020136",
+    "image": "https://media.truefacet.com/media/catalog/product/f/c/fc2pyop2qjpcarvh-antigona_leather_satchel-0-image.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "pandora",
+    "price": 9016.644,
+    "color": null,
+    "category": "satchel",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 9016.644
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9016.644
+      },
+      {
+        "date": "2024-03-07",
+        "price": 9016.644
+      }
+    ],
+    "title": "Givenchy Pandora Box Chain Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-pandora-box-chain-satchel.html",
+    "id": "truefacet-3982768",
+    "productId": "3982768",
+    "image": "https://media.truefacet.com/media/catalog/product/1/3/132495b183ec59948fc0485c9e079762_1.jpg",
+    "folder": "bag/givenchy/pandora",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "pandora",
+    "price": 7875.66,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 7875.66
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7875.66
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7875.66
+      }
+    ],
+    "title": "Givenchy Pandora Leather Crossbody Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/pandora-leather-crossbody-bag.html",
+    "id": "truefacet-3959816",
+    "productId": "3959816",
+    "image": "https://media.truefacet.com/media/catalog/product/e/1/e1a052610f2b8cad5c1e3134437bf513_7.jpg",
+    "folder": "bag/givenchy/pandora",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "nightingale",
+    "price": 6848.4,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 6848.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6848.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6848.4
+      }
+    ],
+    "title": "Givenchy Nightingale Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-nightingale-leather-satchel-3999134.html",
+    "id": "truefacet-3999134",
+    "productId": "3999134",
+    "image": "https://media.truefacet.com/media/catalog/product/1/8/186f1845d4a9dda8a9ddd9c075bb5961.jpg",
+    "folder": "bag/givenchy/nightingale",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "pandora",
+    "price": 5608.2,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5608.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5608.2
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5608.2
+      }
+    ],
+    "title": "Givenchy Mini Pandora Leather Crossbody Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-mini-pandora-leather-crossbody-bag.html",
+    "id": "truefacet-3999133",
+    "productId": "3999133",
+    "image": "https://media.truefacet.com/media/catalog/product/1/8/188cfeb56e70cb7c32cafbe605bfb9e0.jpg",
+    "folder": "bag/givenchy/pandora",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": "mini"
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 9328.8,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 9328.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9328.8
+      },
+      {
+        "date": "2024-03-07",
+        "price": 9328.8
+      }
+    ],
+    "title": "Givenchy Antigona Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-leather-satchel-3998727.html",
+    "id": "truefacet-3998727",
+    "productId": "3998727",
+    "image": "https://media.truefacet.com/media/catalog/product/c/2/c2717ce5ac5cb9ebf8edec880f94acbd.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 10651.679999999998,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 10651.679999999998
+      },
+      {
+        "date": "2024-04-13",
+        "price": 10651.679999999998
+      },
+      {
+        "date": "2024-03-07",
+        "price": 10651.679999999998
+      }
+    ],
+    "title": "Givenchy Antigona Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-leather-satchel-3998725.html",
+    "id": "truefacet-3998725",
+    "productId": "3998725",
+    "image": "https://media.truefacet.com/media/catalog/product/d/0/d05b5285585afb7319a1a15d9d536e83_1.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 9742.199999999999,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 9742.199999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9742.199999999999
+      },
+      {
+        "date": "2024-03-07",
+        "price": 9742.199999999999
+      }
+    ],
+    "title": "Givenchy Antigona Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-leather-satchel-3997370.html",
+    "id": "truefacet-3997370",
+    "productId": "3997370",
+    "image": "https://media.truefacet.com/media/catalog/product/4/5/456ba811719976fcab4f7b7783a170ca.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 9328.8,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 9328.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9328.8
+      },
+      {
+        "date": "2024-03-07",
+        "price": 9328.8
+      }
+    ],
+    "title": "Givenchy Antigona Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-leather-satchel-3997369.html",
+    "id": "truefacet-3997369",
+    "productId": "3997369",
+    "image": "https://media.truefacet.com/media/catalog/product/b/f/bf866c9f5c6b95f14e66d1687bef183d_1.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "pandora",
+    "price": 6021.599999999999,
+    "color": null,
+    "category": "satchel",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 6021.599999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6021.599999999999
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6021.599999999999
+      }
+    ],
+    "title": "Givenchy Pandora Box Chain Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-pandora-box-chain-satchel-3982769.html",
+    "id": "truefacet-3982769",
+    "productId": "3982769",
+    "image": "https://media.truefacet.com/media/catalog/product/9/3/935a3b496a60a434f8cc7724110a4721.jpg",
+    "folder": "bag/givenchy/pandora",
+    "currency": "HKD",
+    "condition": "Never Worn",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "nightingale",
+    "price": 6848.4,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 6848.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6848.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6848.4
+      }
+    ],
+    "title": "Givenchy Nightingale Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-nightingale-leather-satchel-3982765.html",
+    "id": "truefacet-3982765",
+    "productId": "3982765",
+    "image": "https://media.truefacet.com/media/catalog/product/5/8/58d7d33bbb6d18101b3aca19ae37196d.jpg",
+    "folder": "bag/givenchy/nightingale",
+    "currency": "HKD",
+    "condition": "Never Worn",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 2714.4,
+    "color": null,
+    "category": "clutch",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      }
+    ],
+    "title": "Givenchy Antigona Rottweiler Leather Clutch Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-rottweiler-leather-clutch-bag-3982754.html",
+    "id": "truefacet-3982754",
+    "productId": "3982754",
+    "image": "https://media.truefacet.com/media/catalog/product/a/a/aa3f2c5a0bd0a3c8827f2f2c26381432.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 2714.4,
+    "color": null,
+    "category": "clutch",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      }
+    ],
+    "title": "Antigona Rottweiler Leather Clutch Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/givenchy-antigona-rottweiler-leather-clutch-bag.html",
+    "id": "truefacet-3982753",
+    "productId": "3982753",
+    "image": "https://media.truefacet.com/media/catalog/product/3/a/3a81df05e38b8967ee17ecd5882a9730_2.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "pandora",
+    "price": 5608.2,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5608.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5608.2
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5608.2
+      }
+    ],
+    "title": "Pandora Leather Crossbody Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/pandora-leather-crossbody-bag-3959817.html",
+    "id": "truefacet-3959817",
+    "productId": "3959817",
+    "image": "https://media.truefacet.com/media/catalog/product/2/1/21d6c0b452eb870bfe6f6b99356da99f_7_2_2.jpg",
+    "folder": "bag/givenchy/pandora",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 3541.2,
+    "color": null,
+    "category": "clutch",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3541.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3541.2
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3541.2
+      }
+    ],
+    "title": "Medium Antigona Envelope Clutch Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/medium-antigona-envelope-clutch-bag.html",
+    "id": "truefacet-3959814",
+    "productId": "3959814",
+    "image": "https://media.truefacet.com/media/catalog/product/a/a/aa590e5a190416488f8cc5a01719facc.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": "medium"
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 6021.599999999999,
+    "color": null,
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 6021.599999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6021.599999999999
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6021.599999999999
+      }
+    ],
+    "title": "Givenchy Bambi Antigona Leather Tote Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/bambi-antigona-leather-tote-bag.html",
+    "id": "truefacet-3959812",
+    "productId": "3959812",
+    "image": "https://media.truefacet.com/media/catalog/product/f/4/f4357199d6c678334a580e582b84c4a4_2.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Givenchy",
+    "collection": "antigona",
+    "price": 8998.08,
+    "color": null,
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 8998.08
+      },
+      {
+        "date": "2024-04-13",
+        "price": 8998.08
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8998.08
+      }
+    ],
+    "title": "Givenchy Antigona Tricolor Leather Satchel",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/antigona-tricolor-leather-satchel.html",
+    "id": "truefacet-3959811",
+    "productId": "3959811",
+    "image": "https://media.truefacet.com/media/catalog/product/c/c/cc7b87b68736d0a7c82b30a81872a028_7.jpg",
+    "folder": "bag/givenchy/antigona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  }
+]

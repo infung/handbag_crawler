@@ -1,0 +1,4371 @@
+{
+  "Loewe": {
+    "hammock": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "tan",
+        "black",
+        "ivory",
+        "white"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "leather",
+        "canvas"
+      ]
+    },
+    "anagram": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "gold",
+        "beige",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "leather"
+      ]
+    },
+    "amazona": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "gold",
+        "beige",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "canvas"
+      ]
+    },
+    "flamenco": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "yellow",
+        "beige",
+        "khaki",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "leather"
+      ]
+    },
+    "puzzle": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "silver",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "python",
+        "fur",
+        "leather"
+      ]
+    },
+    "basket": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "orange",
+        "beige",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    }
+  },
+  "Cartier": {
+    "cabochon": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "gold",
+        "beige",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "must de": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        ""
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "marcello": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "beige",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    }
+  },
+  "Dior": {
+    "book tote": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "gold",
+        "beige",
+        "grey",
+        "pink",
+        "ivory",
+        "gray",
+        "black",
+        "red",
+        "burgundy"
+      ],
+      "size": [
+        "",
+        "medium",
+        "large"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "canvas",
+        "leather",
+        "velvet"
+      ]
+    },
+    "oblique": {
+      "category": [
+        "pouch"
+      ],
+      "color": [
+        "",
+        "blue",
+        "grey",
+        "beige",
+        "black",
+        "burgundy"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "canvas",
+        "calfskin"
+      ]
+    },
+    "30 montaigne": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blush",
+        "brown",
+        "white",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "multicolor"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "lambskin",
+        "canvas",
+        "leather"
+      ]
+    },
+    "wallet on chain": {
+      "category": [
+        "wallet"
+      ],
+      "color": [
+        "",
+        "white",
+        "blue",
+        "yellow",
+        "gold",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "gray",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "goatskin",
+        "calfskin",
+        "leather"
+      ]
+    },
+    "cannage": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "grey",
+        "beige",
+        "pink",
+        "gray"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "denim",
+        "lambskin",
+        "calfskin"
+      ]
+    },
+    "lady dior": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "orange",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "medium",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "lambskin",
+        "canvas",
+        "leather"
+      ]
+    },
+    "saddle": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "pink",
+        "gray",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "leather",
+        "velvet"
+      ]
+    },
+    "diorama": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "red",
+        "white",
+        "blue",
+        "gold",
+        "grey",
+        "pink",
+        "multicolour",
+        "black",
+        "green",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "leather",
+        "velvet"
+      ]
+    },
+    "bobby": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "pink",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "miss dior": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "blue",
+        "grey",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    }
+  },
+  "Celine": {
+    "triomphe": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "orange",
+        "blue",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "crocodile"
+      ]
+    },
+    "big": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "green"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "phantom": {
+      "category": [
+        "handbag",
+        "tote"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "black",
+        "green"
+      ],
+      "size": [
+        "",
+        "phantom"
+      ],
+      "material": [
+        "",
+        "python",
+        "leather",
+        "wool"
+      ]
+    },
+    "cabas": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "blue",
+        "yellow",
+        "beige",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "cabas"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "cloth",
+        "canvas",
+        "leather"
+      ]
+    },
+    "belt": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "blue",
+        "grey",
+        "taupe",
+        "gray",
+        "black",
+        "burgundy",
+        "plum"
+      ],
+      "size": [
+        "",
+        "micro",
+        "mini"
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "16": {
+      "category": [
+        "bucket"
+      ],
+      "color": [
+        "",
+        "brown",
+        "tan",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "classic box": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "grey",
+        "camel",
+        "pink",
+        "navy",
+        "black",
+        "red",
+        "white",
+        "burgundy"
+      ],
+      "size": [
+        "",
+        "flap"
+      ],
+      "material": [
+        "",
+        "goatskin",
+        "calfskin"
+      ]
+    },
+    "vertical": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "multicolour",
+        "black",
+        "white"
+      ],
+      "size": [
+        "",
+        "cabas"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "canvas"
+      ]
+    },
+    "trapeze": {
+      "category": [
+        "satchel"
+      ],
+      "color": [
+        ""
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "ava": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "clasp": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "luggage": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "beige",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "nano"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    }
+  },
+  "Balenciaga": {
+    "city": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "charcoal",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "silver",
+        "multicolour",
+        "black",
+        "burgundy",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "wool",
+        "canvas",
+        "leather"
+      ]
+    },
+    "papier": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "orange",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "classic": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "orange",
+        "grey",
+        "beige",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "day": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "purple",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "hourglass": {
+      "category": [
+        "top handle",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "lilac",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "grey",
+        "beige",
+        "pink",
+        "silver",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "denim",
+        "patent leather",
+        "calfskin",
+        "cloth",
+        "canvas",
+        "leather",
+        "crocodile"
+      ]
+    },
+    "neo classic": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "white",
+        "pink",
+        "black",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "navy": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "navy"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "canvas"
+      ]
+    },
+    "le cagole": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "yellow",
+        "beige",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "leather",
+        "crocodile"
+      ]
+    }
+  },
+  "Chanel": {
+    "timeless": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "jumbo"
+      ],
+      "material": [
+        "",
+        "python",
+        "leather",
+        "canvas"
+      ]
+    },
+    "vintage": {
+      "category": [
+        "shoulder bag",
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "yellow",
+        "beige",
+        "pink",
+        "gilt",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "lambskin",
+        "canvas",
+        "suede",
+        "leather",
+        "wicker"
+      ]
+    },
+    "22": {
+      "category": [
+        "tote",
+        "backpack"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "coral",
+        "black",
+        "white"
+      ],
+      "size": [
+        "",
+        "22"
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "denim",
+        "calfskin",
+        "canvas",
+        "fur",
+        "leather",
+        "nylon",
+        "velvet"
+      ]
+    },
+    "shopping": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "blue",
+        "beige",
+        "pink",
+        "navy",
+        "gray",
+        "black",
+        "white"
+      ],
+      "size": [
+        "",
+        "large"
+      ],
+      "material": [
+        "",
+        "goatskin",
+        "calfskin",
+        "cloth",
+        "lambskin",
+        "suede",
+        "leather"
+      ]
+    },
+    "gabrielle": {
+      "category": [
+        "hobo"
+      ],
+      "color": [
+        "",
+        "metallic",
+        "green",
+        "white",
+        "blue",
+        "yellow",
+        "grey",
+        "gold",
+        "beige",
+        "purple",
+        "multicolor",
+        "tan",
+        "pink",
+        "navy",
+        "gray",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        "",
+        "medium",
+        "small"
+      ],
+      "material": [
+        "",
+        "goatskin",
+        "calfskin",
+        "fabric",
+        "lambskin",
+        "wool",
+        "suede",
+        "leather"
+      ]
+    },
+    "top handle": {
+      "category": [
+        "top handle"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "yellow",
+        "gold",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "white",
+        "burgundy"
+      ],
+      "size": [
+        "",
+        "top handle"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "lambskin",
+        "leather",
+        "lizard"
+      ]
+    },
+    "vanity": {
+      "category": [
+        "vanity case"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "blue",
+        "beige",
+        "multicolor",
+        "purple",
+        "turquoise",
+        "tan",
+        "pink",
+        "black",
+        "burgundy",
+        "white"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "lambskin",
+        "calfskin"
+      ]
+    },
+    "19": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "metallic",
+        "green",
+        "white",
+        "blue",
+        "yellow",
+        "gold",
+        "multicolor",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        "",
+        "19"
+      ],
+      "material": [
+        "",
+        "denim",
+        "goatskin",
+        "calfskin",
+        "fabric",
+        "wool",
+        "canvas",
+        "leather",
+        "silk"
+      ]
+    },
+    "trendy cc": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "lilac",
+        "red",
+        "blue",
+        "beige",
+        "pink",
+        "black",
+        "green"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "lambskin"
+      ]
+    },
+    "wallet on chain": {
+      "category": [
+        "wallet"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "purple",
+        "multicolor",
+        "pink",
+        "silver",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "19"
+      ],
+      "material": [
+        "",
+        "denim",
+        "goatskin",
+        "calfskin",
+        "fabric",
+        "lambskin",
+        "leather"
+      ]
+    },
+    "deauville": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "multicolor",
+        "turquoise",
+        "pink",
+        "navy",
+        "gray",
+        "black",
+        "ivory",
+        "white"
+      ],
+      "size": [
+        "",
+        "medium",
+        "small"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "wool",
+        "canvas",
+        "suede"
+      ]
+    },
+    "camera": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "beige",
+        "multicolor",
+        "pink",
+        "black",
+        "burgundy",
+        "white"
+      ],
+      "size": [
+        "",
+        "camera"
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "goatskin",
+        "calfskin",
+        "cloth",
+        "lambskin",
+        "suede",
+        "leather"
+      ]
+    },
+    "hobo": {
+      "category": [
+        "hobo"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "yellow",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "lambskin",
+        "velvet",
+        "calfskin"
+      ]
+    },
+    "coco": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "white",
+        "pink",
+        "black"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "lambskin",
+        "canvas"
+      ]
+    },
+    "boy": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "red",
+        "metallic",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "multicolor",
+        "purple",
+        "pink",
+        "gray",
+        "black",
+        "green",
+        "silver"
+      ],
+      "size": [
+        "",
+        "flap",
+        "medium"
+      ],
+      "material": [
+        "",
+        "denim",
+        "goatskin",
+        "calfskin",
+        "lambskin",
+        "canvas",
+        "python",
+        "leather",
+        "velvet"
+      ]
+    },
+    "classic flap": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "yellow",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "leather",
+        "velvet"
+      ]
+    },
+    "coco handle": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "gold",
+        "beige",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "lizard"
+      ]
+    }
+  },
+  "Fendi": {
+    "runaway": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "grey",
+        "beige",
+        "multicolour",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "selleria": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "baguette": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "purple",
+        "pink",
+        "silver",
+        "multicolour",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "wool",
+        "fur",
+        "canvas",
+        "silk",
+        "leather",
+        "velvet"
+      ]
+    },
+    "kan i": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "white",
+        "brown",
+        "beige",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "by the way": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "black",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "peekaboo": {
+      "category": [
+        "bag",
+        "satchel"
+      ],
+      "color": [
+        "",
+        "green",
+        "metallic",
+        "white",
+        "brown",
+        "blue",
+        "yellow",
+        "gold",
+        "beige",
+        "purple",
+        "camel",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "multicolor"
+      ],
+      "size": [
+        "",
+        "medium",
+        "mini"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "fabric",
+        "canvas",
+        "suede",
+        "python",
+        "leather",
+        "nylon",
+        "velvet"
+      ]
+    },
+    "sunshine": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "orange",
+        "pink",
+        "gray",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "fabric",
+        "python",
+        "leather"
+      ]
+    },
+    "mon tresor": {
+      "category": [
+        "bucket"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "orange",
+        "gold",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "canvas",
+        "suede",
+        "leather",
+        "nylon",
+        "silk"
+      ]
+    },
+    "first": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "purple",
+        "pink",
+        "black"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "python",
+        "leather",
+        "silk"
+      ]
+    },
+    "fendigraphy": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "multicolour",
+        "black",
+        "green"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "croissant": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    }
+  },
+  "Gucci": {
+    "vintage": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "canvas",
+        "suede",
+        "leather",
+        "velvet"
+      ]
+    },
+    "bamboo": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "canvas",
+        "suede",
+        "leather",
+        "nylon"
+      ]
+    },
+    "gg marmont": {
+      "category": [
+        "shoulder bag",
+        "bag"
+      ],
+      "color": [
+        "",
+        "metallic",
+        "green",
+        "brown",
+        "blue",
+        "grey",
+        "gold",
+        "beige",
+        "multicolor",
+        "purple",
+        "camel",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "small",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "canvas",
+        "leather",
+        "velvet"
+      ]
+    },
+    "eclipse": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        ""
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "canvas"
+      ]
+    },
+    "sylvie": {
+      "category": [
+        "handbag",
+        "top handle",
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "orange",
+        "blue",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "python",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "boston": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "multicolour"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "canvas"
+      ]
+    },
+    "abbey": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "orange",
+        "gold",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "canvas",
+        "leather"
+      ]
+    },
+    "diana": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "orange",
+        "yellow",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "calfskin"
+      ]
+    },
+    "ophidia": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "multicolor",
+        "pink",
+        "gray",
+        "monogram",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "small",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "canvas",
+        "suede",
+        "leather",
+        "velvet"
+      ]
+    },
+    "shopping": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "denim",
+        "canvas",
+        "calfskin"
+      ]
+    },
+    "messenger": {
+      "category": [
+        "messenger"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "black"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "canvas",
+        "leather",
+        "wicker"
+      ]
+    },
+    "dionysus": {
+      "category": [
+        "shoulder bag",
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "gold",
+        "purple",
+        "pink",
+        "monogram",
+        "black",
+        "red",
+        "multicolor"
+      ],
+      "size": [
+        "",
+        "small",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "python",
+        "suede",
+        "canvas",
+        "leather",
+        "velvet"
+      ]
+    },
+    "jackie": {
+      "category": [
+        "hobo"
+      ],
+      "color": [
+        "",
+        "white",
+        "brown",
+        "blue",
+        "orange",
+        "beige",
+        "pink",
+        "monogram",
+        "black",
+        "red",
+        "multicolor"
+      ],
+      "size": [
+        "",
+        "small",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "ostrich",
+        "canvas",
+        "leather"
+      ]
+    },
+    "neo vintage": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "canvas"
+      ]
+    },
+    "1955": {
+      "category": [
+        "shoulder bag",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "pink",
+        "monogram",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "calfskin",
+        "canvas",
+        "leather"
+      ]
+    },
+    "guccissima": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "black"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "soho": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "orange",
+        "gold",
+        "camel",
+        "pink",
+        "black",
+        "white"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "tote": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "yellow",
+        "beige",
+        "pink",
+        "monogram",
+        "black",
+        "green",
+        "multicolor"
+      ],
+      "size": [
+        "",
+        "medium",
+        "large"
+      ],
+      "material": [
+        "",
+        "calfskin",
+        "wool",
+        "canvas",
+        "suede",
+        "python",
+        "leather",
+        "nylon",
+        "velvet"
+      ]
+    },
+    "interlocking g": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "pink"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "canvas",
+        "calfskin"
+      ]
+    },
+    "pelham": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        ""
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "canvas"
+      ]
+    },
+    "sukey": {
+      "category": [
+        "satchel"
+      ],
+      "color": [
+        ""
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "canvas"
+      ]
+    },
+    "padlock": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    }
+  },
+  "Hermes": {
+    "kelly": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "beige",
+        "khaki",
+        "grey",
+        "purple",
+        "pink",
+        "multicolour",
+        "gray",
+        "black",
+        "burgundy",
+        "white"
+      ],
+      "size": [
+        "",
+        "32",
+        "28"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "ostrich",
+        "canvas",
+        "leather"
+      ]
+    },
+    "birkin": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "grey",
+        "beige",
+        "purple",
+        "multicolor",
+        "pink",
+        "gray",
+        "black",
+        "burgundy",
+        "white",
+        "plum"
+      ],
+      "size": [
+        "",
+        "30",
+        "35"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "ostrich"
+      ]
+    },
+    "constance": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "tan",
+        "black",
+        "burgundy"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "crocodile"
+      ]
+    },
+    "herbag": {
+      "category": [
+        "handbag",
+        "bag"
+      ],
+      "color": [
+        "",
+        "red",
+        "green",
+        "indigo",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "beige",
+        "khaki",
+        "purple",
+        "pink",
+        "etoupe",
+        "multicolour",
+        "black",
+        "burgundy",
+        "rouge"
+      ],
+      "size": [
+        "",
+        "31"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "canvas"
+      ]
+    },
+    "garden party": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "rouge",
+        "orange",
+        "pink",
+        "black",
+        "red",
+        "etoupe"
+      ],
+      "size": [
+        "",
+        "36"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "jige": {
+      "category": [
+        "clutch"
+      ],
+      "color": [
+        "",
+        "yellow",
+        "pink",
+        "gray",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "elan"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "jypsiere": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "yellow",
+        "purple",
+        "pink",
+        "gray",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "evelyne": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "purple",
+        "pink",
+        "gray",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "picotin": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "wool"
+      ]
+    }
+  },
+  "Louis Vuitton": {
+    "ellipse": {
+      "category": [
+        "backpack"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "editions limitees": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "beige",
+        "pink",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "canvas"
+      ]
+    },
+    "speedy": {
+      "category": [
+        "handbag",
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "grey",
+        "purple",
+        "monogram",
+        "black",
+        "red",
+        "white",
+        "damier"
+      ],
+      "size": [
+        "",
+        "25",
+        "30"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather",
+        "canvas"
+      ]
+    },
+    "batignolles": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "monogram canvas",
+        "canvas"
+      ]
+    },
+    "palm springs backpack": {
+      "category": [
+        "backpack"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "eva": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "white",
+        "brown",
+        "monogram"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather"
+      ]
+    },
+    "cannes": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather",
+        "canvas"
+      ]
+    },
+    "lockme": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "rouge",
+        "beige",
+        "black"
+      ],
+      "size": [
+        "",
+        "bb"
+      ],
+      "material": [
+        "",
+        "silk",
+        "calfskin"
+      ]
+    },
+    "twist": {
+      "category": [
+        "handbag",
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "indigo",
+        "red",
+        "blue",
+        "gold",
+        "purple",
+        "camel",
+        "pink",
+        "monogram",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        "",
+        "mm"
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "pochette": {
+      "category": [
+        "pouch",
+        "wallet",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "beige",
+        "pink",
+        "monogram",
+        "black",
+        "red",
+        "white",
+        "rouge",
+        "burgundy",
+        "damier"
+      ],
+      "size": [
+        "",
+        "pochette"
+      ],
+      "material": [
+        "",
+        "denim",
+        "cloth",
+        "suede",
+        "leather"
+      ]
+    },
+    "neverfull": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "grey",
+        "pink",
+        "monogram",
+        "black",
+        "red",
+        "white",
+        "damier"
+      ],
+      "size": [
+        "",
+        "mm"
+      ],
+      "material": [
+        "",
+        "denim",
+        "monogram canvas",
+        "canvas",
+        "leather"
+      ]
+    },
+    "montsouris": {
+      "category": [
+        "backpack"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram"
+      ],
+      "size": [
+        "",
+        "gm"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "canvas"
+      ]
+    },
+    "soft trunk": {
+      "category": [
+        "trunk"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "monogram",
+        "black",
+        "silver"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        "",
+        "denim",
+        "leather",
+        "canvas"
+      ]
+    },
+    "bucket": {
+      "category": [
+        "bucket"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "monogram",
+        "black",
+        "green"
+      ],
+      "size": [
+        "",
+        "petit"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather"
+      ]
+    },
+    "messenger": {
+      "category": [
+        "messenger"
+      ],
+      "color": [
+        "",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather",
+        "canvas"
+      ]
+    },
+    "sling": {
+      "category": [
+        "backpack"
+      ],
+      "color": [
+        "",
+        "black",
+        "damier"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "trunk": {
+      "category": [
+        "clutch"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram",
+        "blue"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "denim",
+        "monogram canvas"
+      ]
+    },
+    "capucines": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "yellow",
+        "purple",
+        "gray",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "mini",
+        "mm"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "artsy": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "monogram",
+        "black",
+        "white",
+        "damier"
+      ],
+      "size": [
+        "",
+        "mm"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "python",
+        "leather"
+      ]
+    },
+    "noe": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "pink",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "bb",
+        "mm"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather"
+      ]
+    },
+    "looping": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "gm"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "onthego": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        "",
+        "gm"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "alma": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "bb"
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "monogram canvas",
+        "leather"
+      ]
+    },
+    "totally": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "odeon": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "keepall": {
+      "category": [
+        "bag",
+        "duffle"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "beige",
+        "monogram",
+        "black",
+        "red",
+        "white",
+        "damier"
+      ],
+      "size": [
+        "",
+        "45",
+        "50"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather",
+        "canvas"
+      ]
+    },
+    "coussin": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "gold",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        "",
+        "lambskin"
+      ]
+    },
+    "musette": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "sac plat": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "black"
+      ],
+      "size": [
+        "",
+        "petit"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "trevi": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "papillon": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "30"
+      ],
+      "material": [
+        "",
+        "monogram canvas"
+      ]
+    },
+    "dauphine": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "black",
+        "brown",
+        "blue"
+      ],
+      "size": [
+        "",
+        "mm"
+      ],
+      "material": [
+        "",
+        "monogram canvas",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "bloomsbury": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown"
+      ],
+      "size": [
+        "",
+        "pm"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "malle": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "gold",
+        "multicolour",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "petit"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "monogram canvas",
+        "leather"
+      ]
+    },
+    "cartouchiere": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "monogram"
+      ],
+      "size": [
+        "",
+        "gm"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "metis": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "pink",
+        "multicolour"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "leather"
+      ]
+    }
+  },
+  "Prada": {
+    "cleo": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "gold",
+        "beige",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "fur",
+        "leather"
+      ]
+    },
+    "promenade": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "blue",
+        "yellow",
+        "beige",
+        "multicolour",
+        "black",
+        "green"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "city calf": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "blue",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "multicolor"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        ""
+      ]
+    },
+    "double": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "orange",
+        "blue",
+        "grey",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    }
+  },
+  "Saint Laurent": {
+    "puffer": {
+      "category": [
+        "shoulder bag",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "beige",
+        "gray",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "cloth",
+        "suede",
+        "leather",
+        "velvet"
+      ]
+    },
+    "kate": {
+      "category": [
+        "clutch"
+      ],
+      "color": [
+        "",
+        "monogram",
+        "black"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "chyc": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "beige",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "loulou": {
+      "category": [
+        "shoulder bag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "black"
+      ],
+      "size": [
+        "",
+        "toy"
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "envelope": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "green",
+        "beige",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "sac de jour": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "silver",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "python",
+        "leather"
+      ]
+    },
+    "shopping": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "orange",
+        "beige",
+        "monogram",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "lou": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "grey",
+        "beige",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "enveloppe": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "blue",
+        "gold",
+        "beige",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    }
+  },
+  "Bottega Veneta": {
+    "the pouch": {
+      "category": [
+        "clutch"
+      ],
+      "color": [
+        "",
+        "orange",
+        "blue",
+        "yellow",
+        "purple",
+        "black",
+        "green"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "veneta": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "purple",
+        "khaki",
+        "pink",
+        "silver",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "velvet",
+        "cloth",
+        "wool",
+        "python",
+        "fur",
+        "leather",
+        "silk"
+      ]
+    },
+    "jodie": {
+      "category": [
+        "hobo"
+      ],
+      "color": [
+        "",
+        "orange",
+        "blue",
+        "yellow",
+        "black",
+        "green"
+      ],
+      "size": [
+        "",
+        "mini"
+      ],
+      "material": [
+        ""
+      ]
+    }
+  },
+  "Bvlgari": {
+    "serpenti": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "white",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "purple",
+        "pink",
+        "multicolour",
+        "gray",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "python",
+        "leather",
+        "lizard"
+      ]
+    },
+    "isabella rossellini": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "orange",
+        "grey",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "canvas",
+        "leather"
+      ]
+    }
+  },
+  "Chloe": {
+    "faye": {
+      "category": [
+        "handbag",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "gold",
+        "beige",
+        "grey",
+        "pink",
+        "multicolour",
+        "black",
+        "green"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "python",
+        "leather"
+      ]
+    },
+    "paraty": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "orange",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "python",
+        "leather"
+      ]
+    },
+    "paddington": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "grey",
+        "beige",
+        "gold",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "marcie": {
+      "category": [
+        "satchel"
+      ],
+      "color": [
+        "",
+        "orange",
+        "tan",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "nile": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "gold",
+        "pink",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "drew": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "gold",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    }
+  },
+  "Givenchy": {
+    "lucrezia": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "grey",
+        "khaki",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "pandora": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "grey",
+        "khaki",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "cloth",
+        "ostrich",
+        "python",
+        "leather"
+      ]
+    },
+    "antigona": {
+      "category": [
+        "bag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "gray",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "small"
+      ],
+      "material": [
+        "",
+        "leather",
+        "crocodile"
+      ]
+    },
+    "gv3": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "brown",
+        "grey",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "python",
+        "leather"
+      ]
+    },
+    "nightingale": {
+      "category": [
+        "tote"
+      ],
+      "color": [
+        "",
+        "brown",
+        "grey",
+        "purple",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "infinity": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "grey",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    }
+  },
+  "Miu Miu": {
+    "coffer": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "grey",
+        "beige",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "matelasse": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather",
+        "wool"
+      ]
+    },
+    "vitello": {
+      "category": [
+        "handbag",
+        "satchel"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather"
+      ]
+    },
+    "miu wander": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "blue",
+        "beige",
+        "pink",
+        "black",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "silk"
+      ]
+    }
+  },
+  "Valentino Garavani": {
+    "rockstud": {
+      "category": [
+        "bag",
+        "satchel"
+      ],
+      "color": [
+        "",
+        "metallic",
+        "brown",
+        "blue",
+        "beige",
+        "purple",
+        "pink",
+        "black",
+        "red"
+      ],
+      "size": [
+        "",
+        "medium"
+      ],
+      "material": [
+        "",
+        "leather",
+        "calfskin"
+      ]
+    },
+    "vsling": {
+      "category": [
+        "handbag",
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "grey",
+        "pink",
+        "black",
+        "red",
+        "silver"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "silk",
+        "calfskin"
+      ]
+    },
+    "rockstud spike": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather",
+        "velvet"
+      ]
+    },
+    "glam lock": {
+      "category": [
+        "crossbody"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "beige",
+        "purple",
+        "pink",
+        "multicolour",
+        "black",
+        "red"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "patent leather",
+        "leather"
+      ]
+    },
+    "roman stud": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "orange",
+        "gold",
+        "beige",
+        "grey",
+        "purple",
+        "pink",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "leather",
+        "wool"
+      ]
+    },
+    "vlogo": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "brown",
+        "blue",
+        "pink",
+        "multicolour",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    }
+  },
+  "Goyard": {
+    "anjou": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "green",
+        "brown",
+        "blue",
+        "yellow",
+        "grey",
+        "beige",
+        "black",
+        "red",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    },
+    "saigon": {
+      "category": [
+        "handbag"
+      ],
+      "color": [
+        "",
+        "red",
+        "brown",
+        "blue",
+        "orange",
+        "yellow",
+        "grey",
+        "silver",
+        "multicolour",
+        "black",
+        "green",
+        "white"
+      ],
+      "size": [
+        ""
+      ],
+      "material": [
+        "",
+        "cloth",
+        "leather"
+      ]
+    }
+  }
+}

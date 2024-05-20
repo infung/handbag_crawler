@@ -1,0 +1,4662 @@
+[
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 11349.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11349.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2745622?groupBy=productClicked",
+    "id": "rebag-7941052235953",
+    "productId": "7941052235953",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274562-2_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1715618796",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "duffle",
+    "price": 5694.0,
+    "color": "black",
+    "category": "duffle",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5694.0
+      }
+    ],
+    "title": "Classic Duffle Bag Leather 6 / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-classic-duffle-bag-leather-626720649?groupBy=productClicked",
+    "id": "rebag-7926894198961",
+    "productId": "7926894198961",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267206-49_20Saint_20Laurent_20Classic_20Duffle_20Bag_20Leather_206_2D_0002_300x300.jpg?v=1715013434",
+    "folder": "bag/saint laurent/duffle",
+    "condition": "Very Good",
+    "size": "6"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 8619.0,
+    "color": "black",
+    "category": null,
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8619.0
+      }
+    ],
+    "title": "Rive Gauche Cabas Leather Medium / black",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-cabas-leather-medium267838316?groupBy=productClicked",
+    "id": "rebag-7926903767217",
+    "productId": "7926903767217",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267838-316_20Saint_20Laurent_20Rive_20Gauche_20Cabas_20Leather_20Medium_2D_0002_300x300.jpg?v=1715013606",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 7098.0,
+    "color": "black",
+    "category": "clutch",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7098.0
+      }
+    ],
+    "title": "LouLou Puffer Clutch Leather Small / black",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-clutch-leather-small2722805?groupBy=productClicked",
+    "id": "rebag-7926921887921",
+    "productId": "7926921887921",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272280-5_20Saint_20Laurent_20LouLou_20Puffer_20Clutch_20Leather_20Small_2D_0002_300x300.jpg?v=1715013904",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 5304.0,
+    "color": "gray",
+    "category": null,
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5304.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6201.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6903.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 7683.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6903.0
+      }
+    ],
+    "title": "Rive Gauche Cabas Leather Small / gray",
+    "like": 43,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-cabas-leather-small244426168?groupBy=productClicked",
+    "id": "rebag-7591029932209",
+    "productId": "7591029932209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/244426-168_20Saint_20Laurent_20Rive_20Gauche_20Cabas_20Leather_20Small_2D_0002_300x300.jpg?v=1701460454",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 15444.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 15444.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2711151?groupBy=productClicked",
+    "id": "rebag-7870010228913",
+    "productId": "7870010228913",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271115-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1713810553",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 7488.0,
+    "color": null,
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7488.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Large / neutral",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-large2695432?groupBy=productClicked",
+    "id": "rebag-7787855413425",
+    "productId": "7787855413425",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269543-2_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Large_2D_0002_300x300.jpg?v=1713199472",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 10218.0,
+    "color": "black",
+    "category": "wallet",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10218.0
+      }
+    ],
+    "title": "Sunset Chain Wallet Leather / black",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-chain-wallet-leather-2712001?groupBy=productClicked",
+    "id": "rebag-7870010392753",
+    "productId": "7870010392753",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271200-1_20Saint_20Laurent_20Sunset_20Chain_20Wallet_20Leather_2D_0002_300x300.jpg?v=1713810557",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "shopping",
+    "price": 33969.0,
+    "color": "black",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 33969.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 37830.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 41964.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 41964.0
+      }
+    ],
+    "title": "Icare Shopping Tote Quilted Leather Maxi / black",
+    "like": 51,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-icare-shopping-tote-quilted-leather-maxi24438896?groupBy=productClicked",
+    "id": "rebag-7639718101169",
+    "productId": "7639718101169",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/244388-96_20Saint_20Laurent_20Icare_20Shopping_20Tote_20Quilted_20Leather_20Maxi_2D_0002_300x300.jpg?v=1707488537",
+    "folder": "bag/saint laurent/shopping",
+    "condition": "Great",
+    "size": "maxi"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12363.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12363.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14079.0
+      }
+    ],
+    "title": "Sac de Jour Souple Bag Leather Large / gray",
+    "like": 16,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-souple-bag-leather-large25959478?groupBy=productClicked",
+    "id": "rebag-7697958142129",
+    "productId": "7697958142129",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/259594-78_20Saint_20Laurent_20Sac_20de_20Jour_20Souple_20Bag_20Leather_20Large_2D_0002_300x300.jpg?v=1710782825",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 12402.0,
+    "color": "pink",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12402.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14118.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / pink",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2636221?groupBy=productClicked",
+    "id": "rebag-7697967972529",
+    "productId": "7697967972529",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263622-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1710782960",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 10101.0,
+    "color": null,
+    "category": "wallet",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10101.0
+      }
+    ],
+    "title": "Sunset Chain Wallet Crocodile Embossed Leather / neutral",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-chain-wallet-crocodile-embossed-leather-2747073?groupBy=productClicked",
+    "id": "rebag-7926973530289",
+    "productId": "7926973530289",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274707-3_20Saint_20Laurent_20Sunset_20Chain_20Wallet_20Crocodile_20Embossed_20Leather_2D_0002_300x300.jpg?v=1715014785",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 9009.0,
+    "color": "white",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9009.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 10296.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 11427.0
+      },
+      {
+        "date": "2023-11-22",
+        "price": 14118.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 12714.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 11427.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / white",
+    "like": 55,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2450311?groupBy=productClicked",
+    "id": "rebag-7582870962353",
+    "productId": "7582870962353",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/245031-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1700257574",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17940.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17940.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / neutral",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2730881?groupBy=productClicked",
+    "id": "rebag-7926954328241",
+    "productId": "7926954328241",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273088-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1715014471",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "niki",
+    "price": 10491.0,
+    "color": "black",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10491.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12090.0
+      }
+    ],
+    "title": "Niki Chain Flap Bag Crocodile Embossed Patent Baby / black",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-niki-chain-flap-bag-crocodile-embossed-patent-baby2551841?groupBy=productClicked",
+    "id": "rebag-7697898242225",
+    "productId": "7697898242225",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/255184-1_20Saint_20Laurent_20Niki_20Chain_20Flap_20Bag_20Crocodile_20Embossed_20Patent_20Medium_2D_0002_300x300.jpg?v=1710781902",
+    "folder": "bag/saint laurent/niki",
+    "condition": "Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "kate",
+    "price": 5811.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5811.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6747.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7527.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7527.0
+      }
+    ],
+    "title": "Classic Monogram Kate Belt Bag Leather / gray",
+    "like": 37,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-classic-monogram-kate-belt-bag-leather-2496551?groupBy=productClicked",
+    "id": "rebag-7633755635889",
+    "productId": "7633755635889",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/249655-1_20Saint_20Laurent_20Classic_20Monogram_20Kate_20Belt_20Bag_20Leather_2D_0002_300x300.jpg?v=1706903908",
+    "folder": "bag/saint laurent/kate",
+    "condition": "Fair",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 9087.0,
+    "color": "red",
+    "category": "crossbody",
+    "material": "velvet",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9087.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11349.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12636.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12636.0
+      }
+    ],
+    "title": "Sunset Crossbody Bag Velvet Small / red",
+    "like": 77,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-crossbody-bag-velvet-small2512061?groupBy=productClicked",
+    "id": "rebag-7636322091185",
+    "productId": "7636322091185",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/251206-1_20Saint_20Laurent_20Sunset_20Crossbody_20Bag_20Velvet_20Small_2D_0002_300x300.jpg?v=1707160261",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 11466.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11466.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 13104.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 14547.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 16185.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 14547.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / black",
+    "like": 68,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small2494555?groupBy=productClicked",
+    "id": "rebag-7611494236337",
+    "productId": "7611494236337",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/249455-5_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1704484547",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 8736.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8736.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12909.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2675181?groupBy=productClicked",
+    "id": "rebag-7726375993521",
+    "productId": "7726375993521",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267518-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1711991009",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 13494.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13494.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15249.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Jersey Medium / black",
+    "like": 20,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-jersey-medium2635621?groupBy=productClicked",
+    "id": "rebag-7686007980209",
+    "productId": "7686007980209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263562-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Jersey_20Small_2D_0002_300x300.jpg?v=1710185305",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12714.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12714.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / brown",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2716422?groupBy=productClicked",
+    "id": "rebag-7926918906033",
+    "productId": "7926918906033",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271642-2_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715013851",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 14391.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14391.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Nano / gray",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-nano268438103?groupBy=productClicked",
+    "id": "rebag-7926965403825",
+    "productId": "7926965403825",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268438-103_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715014656",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9672.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9672.0
+      }
+    ],
+    "title": "Sac de Jour Bag Patchwork Leather Small / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-patchwork-leather-small267838127?groupBy=productClicked",
+    "id": "rebag-7926901375153",
+    "productId": "7926901375153",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267838-127_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Patch_20Embellished_20Leather_20Baby_2D_0002_300x300.jpg?v=1715013564",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 13962.0,
+    "color": "black",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13962.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15756.0
+      }
+    ],
+    "title": "LouLou Tote Matelasse Chevron Leather Large / black",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-tote-matelasse-chevron-leather-large2610861?groupBy=productClicked",
+    "id": "rebag-7707775402161",
+    "productId": "7707775402161",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/261086-1_20Saint_20Laurent_20LouLou_20Tote_20Matelasse_20Chevron_20Leather_20Large_2D_0002_300x300.jpg?v=1711392253",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Fair",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 14625.0,
+    "color": "red",
+    "category": "top handle",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14625.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16770.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 18603.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 18603.0
+      }
+    ],
+    "title": "Sunset Top Handle Shoulder Bag Leather Medium / red",
+    "like": 49,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-top-handle-shoulder-bag-leather-medium2579681?groupBy=productClicked",
+    "id": "rebag-7633779490993",
+    "productId": "7633779490993",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/257968-1_20Saint_20Laurent_20Sunset_20Top_20Handle_20Shoulder_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1706907762",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "shopping",
+    "price": 30849.0,
+    "color": "black",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 30849.0
+      }
+    ],
+    "title": "Icare Shopping Tote Quilted Leather Maxi / black",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-icare-shopping-tote-quilted-leather-maxi2692781?groupBy=productClicked",
+    "id": "rebag-7787837554865",
+    "productId": "7787837554865",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269278-1_20Saint_20Laurent_20Icare_20Shopping_20Tote_20Quilted_20Leather_20Maxi_2D_0002_300x300.jpg?v=1713198954",
+    "folder": "bag/saint laurent/shopping",
+    "condition": "Very Good",
+    "size": "maxi"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8697.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8697.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Baby / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-baby2684961?groupBy=productClicked",
+    "id": "rebag-7869994795185",
+    "productId": "7869994795185",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268496-1_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1713810129",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 18564.0,
+    "color": "gray",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 18564.0
+      }
+    ],
+    "title": "Sunset Crossbody Bag Leather Medium / gray",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-crossbody-bag-leather-medium2731241?groupBy=productClicked",
+    "id": "rebag-7926984638641",
+    "productId": "7926984638641",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273124-1_20Saint_20Laurent_20Sunset_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715014948",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 6669.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6669.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7644.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Large / red",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-large2673226?groupBy=productClicked",
+    "id": "rebag-7756766511281",
+    "productId": "7756766511281",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267322-6_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Large_2D_0002_300x300.jpg?v=1712600345",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 13767.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13767.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16029.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Suede Small / neutral",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-suede-small2559101?groupBy=productClicked",
+    "id": "rebag-7697929306289",
+    "productId": "7697929306289",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/255910-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Suede_20Small_2D_0002_300x300.jpg?v=1710782389",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "shopping",
+    "price": 6084.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6084.0
+      }
+    ],
+    "title": "Claude Shopping Bag Crocodile Embossed Leather / red",
+    "like": 42,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-claude-shopping-bag-crocodile-embossed-leather-2261101?groupBy=productClicked",
+    "id": "rebag-7500668895409",
+    "productId": "7500668895409",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/226110-1_20Saint_20Laurent_20Claude_20Shopping_20Bag_20Crocodile_20Embossed_20Leather_2D_0002_300x300.jpg?v=1691173024",
+    "folder": "bag/saint laurent/shopping",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 9516.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9516.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11934.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 51,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2593981?groupBy=productClicked",
+    "id": "rebag-7685986713777",
+    "productId": "7685986713777",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/259398-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1710184866",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 5382.0,
+    "color": "black",
+    "category": "bag",
+    "material": "velvet",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5382.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6318.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7020.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7020.0
+      }
+    ],
+    "title": "LouLou Bowling Bag Matelasse Chevron Velvet Small / black",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-bowling-bag-matelasse-chevron-velvet-small2584291?groupBy=productClicked",
+    "id": "rebag-7657857286321",
+    "productId": "7657857286321",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258429-1_20Saint_20Laurent_20LouLou_20Bowling_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1708703144",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 17589.0,
+    "color": "gray",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17589.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Small / gray",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-small2694091?groupBy=productClicked",
+    "id": "rebag-7870025236657",
+    "productId": "7870025236657",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269409-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810988",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 8853.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8853.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9945.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 11076.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 11076.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 60,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2580353?groupBy=productClicked",
+    "id": "rebag-7648598065329",
+    "productId": "7648598065329",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258035-3_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1708103034",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 12363.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12363.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14079.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Small / gray",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-small2398882?groupBy=productClicked",
+    "id": "rebag-7756762054833",
+    "productId": "7756762054833",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/239888-2_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1712600257",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 18486.0,
+    "color": "black",
+    "category": "messenger",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 18486.0
+      }
+    ],
+    "title": "Loulou Puffer Messenger Bag Quilted Econyl / black",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-messenger-bag-quilted-econyl-26296861?groupBy=productClicked",
+    "id": "rebag-7787812126897",
+    "productId": "7787812126897",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262968-61_20Saint_20Laurent_20Loulou_20Puffer_20Messenger_20Bag_20Quilted_20Econyl_2D_0002_300x300.jpg?v=1713198275",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Excellent",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 16185.0,
+    "color": null,
+    "category": null,
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16185.0
+      }
+    ],
+    "title": "Rive Gauche Cabas Woven Raffia Small / neutral",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-cabas-woven-raffia-small267838319?groupBy=productClicked",
+    "id": "rebag-7926933586097",
+    "productId": "7926933586097",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267838-319_20Saint_20Laurent_20Rive_20Gauche_20Cabas_20Woven_20Raffia_20Small_2D_0002_300x300.jpg?v=1715014127",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9477.0,
+    "color": "green",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9477.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / green",
+    "like": 54,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2715721?groupBy=productClicked",
+    "id": "rebag-7870038868145",
+    "productId": "7870038868145",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271572-1_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1713811343",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 17082.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17082.0
+      }
+    ],
+    "title": "Sunset Shoulder Bag Leather Medium / black",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-shoulder-bag-leather-medium2727971?groupBy=productClicked",
+    "id": "rebag-7941041258673",
+    "productId": "7941041258673",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272797-1_20Saint_20Laurent_20Sunset_20Shoulder_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715618565",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 3650.4,
+    "color": "black",
+    "category": null,
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3650.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4290.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4836.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4836.0
+      }
+    ],
+    "title": "Rive Gauche Cabas Leather Small / black",
+    "like": 28,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-cabas-leather-small2595001?groupBy=productClicked",
+    "id": "rebag-7657866657969",
+    "productId": "7657866657969",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259500-1_20Saint_20Laurent_20Rive_20Gauche_20Cabas_20Leather_20Small_2D_0002_300x300.jpg?v=1708703477",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Fair",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 14547.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14547.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16341.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2671691?groupBy=productClicked",
+    "id": "rebag-7756728729777",
+    "productId": "7756728729777",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267169-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1712599662",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 9048.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9048.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Shearling Toy / black",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-shearling-toy2656178?groupBy=productClicked",
+    "id": "rebag-7869992730801",
+    "productId": "7869992730801",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265617-8_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Shearling_20Toy_2D_0002_300x300.jpg?v=1713810072",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 11349.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11349.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2727591?groupBy=productClicked",
+    "id": "rebag-7914443735217",
+    "productId": "7914443735217",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272759-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1714412317",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 9048.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9048.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 16,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2677782?groupBy=productClicked",
+    "id": "rebag-7787825496241",
+    "productId": "7787825496241",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267778-2_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1713198631",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "kate",
+    "price": 4882.8,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4882.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5811.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6630.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 7956.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6630.0
+      }
+    ],
+    "title": "Classic Monogram Kate Belt Bag Leather Mini / black",
+    "like": 93,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-classic-monogram-kate-belt-bag-leather-mini2475721?groupBy=productClicked",
+    "id": "rebag-7585503346865",
+    "productId": "7585503346865",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/247572-1_20Saint_20Laurent_20Classic_20Monogram_20Kate_20Belt_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1700676151",
+    "folder": "bag/saint laurent/kate",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 10023.0,
+    "color": "green",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10023.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / green",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2693171?groupBy=productClicked",
+    "id": "rebag-7926952624305",
+    "productId": "7926952624305",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269317-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1715014442",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Fair",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 12519.0,
+    "color": "black",
+    "category": "messenger",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12519.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14508.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 19500.0
+      },
+      {
+        "date": "2023-10-19",
+        "price": 24063.0
+      },
+      {
+        "date": "2023-11-22",
+        "price": 24063.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 19500.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 19500.0
+      }
+    ],
+    "title": "Loulou Puffer Messenger Bag Quilted Econyl / black",
+    "like": 39,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-messenger-bag-quilted-econyl-2312831?groupBy=productClicked",
+    "id": "rebag-7525511397553",
+    "productId": "7525511397553",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/231283-1_20Saint_20Laurent_20Loulou_20Puffer_20Messenger_20Bag_20Quilted_20Econyl_2D_0002_300x300.jpg?v=1696619256",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 11427.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11427.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2720202?groupBy=productClicked",
+    "id": "rebag-7926920413361",
+    "productId": "7926920413361",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272020-2_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1715013877",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Excellent",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 13611.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13611.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15366.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Baby / gray",
+    "like": 16,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-baby25858339?groupBy=productClicked",
+    "id": "rebag-7686010765489",
+    "productId": "7686010765489",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/258583-39_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1710185371",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 6006.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6006.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7371.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8229.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 8229.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Baby / black",
+    "like": 41,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-baby25732037?groupBy=productClicked",
+    "id": "rebag-7639785603249",
+    "productId": "7639785603249",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/257320-37_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Baby_2D_0002_300x300.jpg?v=1707494640",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Excellent",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12129.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12129.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14079.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 15990.0
+      },
+      {
+        "date": "2023-11-22",
+        "price": 19695.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 17745.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 15990.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Crocodile Embossed Leather Baby / red",
+    "like": 70,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-crocodile-embossed-leather-baby2447631?groupBy=productClicked",
+    "id": "rebag-7577018204337",
+    "productId": "7577018204337",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/244763-1_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Crocodile_20Embossed_20Leather_20Baby_2D_0002_300x300.jpg?v=1699913600",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 17160.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17160.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / black",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small26489012?groupBy=productClicked",
+    "id": "rebag-7787818516657",
+    "productId": "7787818516657",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/264890-12_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1713198440",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Excellent",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 13806.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13806.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2690241?groupBy=productClicked",
+    "id": "rebag-7787834998961",
+    "productId": "7787834998961",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269024-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713198887",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17082.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17082.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2718111?groupBy=productClicked",
+    "id": "rebag-7914415489201",
+    "productId": "7914415489201",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271811-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1714411767",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 4633.2,
+    "color": "black",
+    "category": "bag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4633.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5538.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6318.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 7020.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6318.0
+      }
+    ],
+    "title": "Sac de Jour Bag Fringe Suede Baby / black",
+    "like": 61,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-fringe-suede-baby24309924?groupBy=productClicked",
+    "id": "rebag-7585377288369",
+    "productId": "7585377288369",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/243099-24_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Fringe_20Suede_20Baby_2D_0002_300x300.jpg?v=1700667002",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Fair",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17550.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17550.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 18525.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / neutral",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2674201?groupBy=productClicked",
+    "id": "rebag-7756752781489",
+    "productId": "7756752781489",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267420-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1712600087",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Excellent",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 13143.0,
+    "color": "green",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13143.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14898.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / green",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2673461?groupBy=productClicked",
+    "id": "rebag-7726405779633",
+    "productId": "7726405779633",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267346-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1711991494",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 17043.0,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17043.0
+      }
+    ],
+    "title": "Sunset Crossbody Bag Leather Medium / neutral",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-crossbody-bag-leather-medium2736112?groupBy=productClicked",
+    "id": "rebag-7941067014321",
+    "productId": "7941067014321",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273611-2_20Saint_20Laurent_20Sunset_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715619107",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17940.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17940.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / neutral",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2722751?groupBy=productClicked",
+    "id": "rebag-7914441408689",
+    "productId": "7914441408689",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272275-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1714412278",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 10101.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10101.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11700.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2660731?groupBy=productClicked",
+    "id": "rebag-7726335197361",
+    "productId": "7726335197361",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266073-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1711990350",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17901.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17901.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 19890.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 22113.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 23283.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 22113.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 29,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2553371?groupBy=productClicked",
+    "id": "rebag-7621097193649",
+    "productId": "7621097193649",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/255337-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1705694825",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 17043.0,
+    "color": "red",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17043.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Small / red",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-small2708671?groupBy=productClicked",
+    "id": "rebag-7870029168817",
+    "productId": "7870029168817",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270867-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1713811079",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "duffle",
+    "price": 8853.0,
+    "color": "black",
+    "category": "briefcase",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8853.0
+      }
+    ],
+    "title": "Classic Duffle Briefcase Leather / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-classic-duffle-briefcase-leather-26783818?groupBy=productClicked",
+    "id": "rebag-7926899769521",
+    "productId": "7926899769521",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267838-18_20Saint_20Laurent_20Classic_20Duffle_20Briefcase_20Leather_2D_0002_300x300.jpg?v=1715013532",
+    "folder": "bag/saint laurent/duffle",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 17238.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17238.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 19188.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Crocodile Embossed Leather Baby / red",
+    "like": 48,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-crocodile-embossed-leather-baby2541753?groupBy=productClicked",
+    "id": "rebag-7636352041137",
+    "productId": "7636352041137",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/254175-3_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Crocodile_20Embossed_20Leather_20Baby_2D_0002_300x300.jpg?v=1707162924",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 14469.0,
+    "color": "red",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14469.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16263.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / red",
+    "like": 23,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2638301?groupBy=productClicked",
+    "id": "rebag-7697968562353",
+    "productId": "7697968562353",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263830-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1710782968",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 16107.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16107.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 18018.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 14,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2659952?groupBy=productClicked",
+    "id": "rebag-7726335131825",
+    "productId": "7726335131825",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265995-2_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1711990348",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 6864.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6864.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Baby / black",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-baby2747821?groupBy=productClicked",
+    "id": "rebag-7941067997361",
+    "productId": "7941067997361",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274782-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Baby_2D_0002_300x300.jpg?v=1715619117",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 13494.0,
+    "color": "purple",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13494.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15249.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Baby / purple",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-baby2688151?groupBy=productClicked",
+    "id": "rebag-7756787941553",
+    "productId": "7756787941553",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268815-1_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1712600719",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 12324.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12324.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14040.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2628432?groupBy=productClicked",
+    "id": "rebag-7686000771249",
+    "productId": "7686000771249",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262843-2_20Saint_20Laurent_20LouLou_20Puffer_20Clutch_20Leather_20Small_2D_0002_300x300.jpg?v=1710185115",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 7761.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7761.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Baby / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-baby2741323?groupBy=productClicked",
+    "id": "rebag-7941050073265",
+    "productId": "7941050073265",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274132-3_20Saint_20Laurent_20Lou_20Belt_20Bag_20Matelasse_20Chevron_20Leather_2D_0002_300x300.jpg?v=1715618755",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Excellent",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 10959.0,
+    "color": "brown",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10959.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / brown",
+    "like": 14,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2698522?groupBy=productClicked",
+    "id": "rebag-7787843649713",
+    "productId": "7787843649713",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269852-2_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713199101",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 9555.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9555.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11115.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12363.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12363.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 42,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2554881?groupBy=productClicked",
+    "id": "rebag-7627710988465",
+    "productId": "7627710988465",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/255488-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1706297962",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 9516.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9516.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11076.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12324.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12324.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 27,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2593811?groupBy=productClicked",
+    "id": "rebag-7657866297521",
+    "productId": "7657866297521",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259381-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1708703456",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9672.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9672.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11232.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12519.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12519.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Baby / black",
+    "like": 31,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-baby2580934?groupBy=productClicked",
+    "id": "rebag-7636376944817",
+    "productId": "7636376944817",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258093-4_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1707164957",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 8658.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8658.0
+      }
+    ],
+    "title": "Lou Camera Bag Leather Small / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-leather-small269014134?groupBy=productClicked",
+    "id": "rebag-7941029986481",
+    "productId": "7941029986481",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269014-134_20Saint_20Laurent_20Lou_20Camera_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1715618324",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 10920.0,
+    "color": "gray",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10920.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12558.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 13923.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 15483.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 13923.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / gray",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2510283?groupBy=productClicked",
+    "id": "rebag-7604625735857",
+    "productId": "7604625735857",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/251028-3_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1703263568",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 9906.0,
+    "color": "black",
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9906.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11466.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12753.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12753.0
+      }
+    ],
+    "title": "Rive Gauche Shopper Tote Raffia with Canvas Large / black",
+    "like": 65,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-shopper-tote-raffia-with-canvas-large2596411?groupBy=productClicked",
+    "id": "rebag-7657872818353",
+    "productId": "7657872818353",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259641-1_20Saint_20Laurent_20Rive_20Gauche_20Shopper_20Tote_20Raffia_20with_20Canvas_20Large_2D_0002_300x300.jpg?v=1708703642",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 14235.0,
+    "color": "white",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14235.0
+      }
+    ],
+    "title": "Sunset Satchel Leather Medium / white",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-satchel-leather-medium269667104?groupBy=productClicked",
+    "id": "rebag-7941069701297",
+    "productId": "7941069701297",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269667-104_20Saint_20Laurent_20Sunset_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1715619150",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 18876.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 18876.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2747102?groupBy=productClicked",
+    "id": "rebag-7941067702449",
+    "productId": "7941067702449",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274710-2_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1715619110",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8814.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8814.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 10335.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Small / red",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-small260649304?groupBy=productClicked",
+    "id": "rebag-7697949786289",
+    "productId": "7697949786289",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260649-304_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1710782710",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 11271.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11271.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12909.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 13611.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 13611.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / red",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small2583074?groupBy=productClicked",
+    "id": "rebag-7674484785329",
+    "productId": "7674484785329",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258307-4_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1709577939",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 9399.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9399.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Patent Toy / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-patent-toy2713101?groupBy=productClicked",
+    "id": "rebag-7926916907185",
+    "productId": "7926916907185",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271310-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Patent_20Toy_2D_0002_300x300.jpg?v=1715013821",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 12402.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12402.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 26,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2703791?groupBy=productClicked",
+    "id": "rebag-7787869339825",
+    "productId": "7787869339825",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270379-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713199878",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 12831.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12831.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14547.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 16146.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 16146.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / neutral",
+    "like": 16,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2531045?groupBy=productClicked",
+    "id": "rebag-7636323926193",
+    "productId": "7636323926193",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253104-5_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1707160391",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 6045.0,
+    "color": "black",
+    "category": "tote",
+    "material": "wool",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6045.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7020.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8385.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 8385.0
+      }
+    ],
+    "title": "Rive Gauche Shopper Tote Printed Wool Large / black",
+    "like": 42,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-shopper-tote-printed-wool-large25387567?groupBy=productClicked",
+    "id": "rebag-7627616714929",
+    "productId": "7627616714929",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253875-67_20Saint_20Laurent_20Rive_20Gauche_20Shopper_20Tote_20Printed_20Wool_20Large_2D_0002_300x300.jpg?v=1706295443",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Excellent",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 6474.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6474.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Baby / gray",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-baby2714881?groupBy=productClicked",
+    "id": "rebag-7914439508145",
+    "productId": "7914439508145",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271488-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Baby_2D_0002_300x300.jpg?v=1714412237",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Great",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 16614.0,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16614.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / neutral",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini267231127?groupBy=productClicked",
+    "id": "rebag-7926926475441",
+    "productId": "7926926475441",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267231-127_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1715014000",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17706.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17706.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2717901?groupBy=productClicked",
+    "id": "rebag-7941039358129",
+    "productId": "7941039358129",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271790-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1715618519",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 4633.2,
+    "color": "black",
+    "category": "tote",
+    "material": "nylon",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4633.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5460.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6084.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6084.0
+      }
+    ],
+    "title": "Puffer Tote Nylon Tall / black",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-puffer-tote-nylon-tall25370145?groupBy=productClicked",
+    "id": "rebag-7627582734513",
+    "productId": "7627582734513",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253701-45_20Saint_20Laurent_20Puffer_20Tote_20Nylon_20Tall_2D_0002_300x300.jpg?v=1706294618",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 13806.0,
+    "color": "green",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13806.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Nano / green",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-nano26962636?groupBy=productClicked",
+    "id": "rebag-7926952657073",
+    "productId": "7926952657073",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269626-36_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715014442",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Excellent",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8931.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8931.0
+      }
+    ],
+    "title": "Sac de Jour Souple Bag Leather Nano / black",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-souple-bag-leather-nano2704141?groupBy=productClicked",
+    "id": "rebag-7869994729649",
+    "productId": "7869994729649",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270414-1_20Saint_20Laurent_20Sac_20de_20Jour_20Souple_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1713810126",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8463.0,
+    "color": "black",
+    "category": "backpack",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8463.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11310.0
+      }
+    ],
+    "title": "Sac de Jour Backpack Leather Medium / black",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-backpack-leather-medium262968117?groupBy=productClicked",
+    "id": "rebag-7726321631409",
+    "productId": "7726321631409",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262968-117_20Saint_20Laurent_20Sac_20de_20Jour_20Backpack_20Leather_20Medium_2D_0002_300x300.jpg?v=1711990108",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8424.0,
+    "color": "pink",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8424.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 9516.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / pink",
+    "like": 22,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2659551?groupBy=productClicked",
+    "id": "rebag-7707827372209",
+    "productId": "7707827372209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265955-1_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1711393565",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17940.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17940.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2732551?groupBy=productClicked",
+    "id": "rebag-7926941352113",
+    "productId": "7926941352113",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273255-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1715014262",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 11544.0,
+    "color": null,
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11544.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 13182.0
+      }
+    ],
+    "title": "LouLou Tote Matelasse Chevron Leather Small / neutral",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-tote-matelasse-chevron-leather-small2654381?groupBy=productClicked",
+    "id": "rebag-7707800731825",
+    "productId": "7707800731825",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265438-1_20Saint_20Laurent_20LouLou_20Tote_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1711392934",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 8619.0,
+    "color": null,
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8619.0
+      }
+    ],
+    "title": "Rive Gauche Shopper Tote Canvas Tall / neutral",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-shopper-tote-canvas-tall268438164?groupBy=productClicked",
+    "id": "rebag-7926936404145",
+    "productId": "7926936404145",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268438-164_20Saint_20Laurent_20Rive_20Gauche_20Shopper_20Tote_20Canvas_20Tall_2D_0002_300x300.jpg?v=1715014177",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Very Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "kate",
+    "price": 8931.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8931.0
+      }
+    ],
+    "title": "Kate 99 Tassel Flap Bag Leather Medium / red",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-kate-99-tassel-flap-bag-leather-medium26721429?groupBy=productClicked",
+    "id": "rebag-7914425909425",
+    "productId": "7914425909425",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267214-29_20Saint_20Laurent_20Kate_2099_20Tassel_20Flap_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1714411972",
+    "folder": "bag/saint laurent/kate",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12285.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12285.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2692216?groupBy=productClicked",
+    "id": "rebag-7941030543537",
+    "productId": "7941030543537",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269221-6_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715618332",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "kate",
+    "price": 6006.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6006.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6942.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7800.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 8658.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7800.0
+      }
+    ],
+    "title": "Classic Monogram Kate Belt Bag Leather / black",
+    "like": 45,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-classic-monogram-kate-belt-bag-leather-2495203?groupBy=productClicked",
+    "id": "rebag-7602494046385",
+    "productId": "7602494046385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/249520-3_20Saint_20Laurent_20Classic_20Monogram_20Kate_20Belt_20Bag_20Leather_2D_0002_300x300.jpg?v=1702840034",
+    "folder": "bag/saint laurent/kate",
+    "condition": "Very Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 13455.0,
+    "color": "pink",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13455.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Nano / pink",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-nano26962635?groupBy=productClicked",
+    "id": "rebag-7926952886449",
+    "productId": "7926952886449",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269626-35_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715014445",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 5577.0,
+    "color": null,
+    "category": "bucket",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5577.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6513.0
+      }
+    ],
+    "title": "Rive Gauche Bucket Bag Canvas / neutral",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-bucket-bag-canvas-26064921?groupBy=productClicked",
+    "id": "rebag-7697943298225",
+    "productId": "7697943298225",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260649-21_20Saint_20Laurent_20Rive_20Gauche_20Bucket_20Bag_20Canvas_2D_0002_300x300.jpg?v=1710782604",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 10023.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10023.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12909.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 13611.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 13611.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / black",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small2541752?groupBy=productClicked",
+    "id": "rebag-7636319436977",
+    "productId": "7636319436977",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/254175-2_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1707159983",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Fair",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 16380.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16380.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2711631?groupBy=productClicked",
+    "id": "rebag-7870010294449",
+    "productId": "7870010294449",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271163-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1713810555",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 11778.0,
+    "color": "green",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11778.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 13455.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 15600.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 16458.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 15600.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / green",
+    "like": 26,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2550301?groupBy=productClicked",
+    "id": "rebag-7621132714161",
+    "productId": "7621132714161",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/255030-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Mini_2D_0002_300x300.jpg?v=1705699152",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 10686.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10686.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Small / blue",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-small2742582?groupBy=productClicked",
+    "id": "rebag-7941080416433",
+    "productId": "7941080416433",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274258-2_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1715619378",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 10959.0,
+    "color": "pink",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10959.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 12597.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 14001.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 14001.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Nano / pink",
+    "like": 47,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-nano25859212?groupBy=productClicked",
+    "id": "rebag-7642778632369",
+    "productId": "7642778632369",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258592-12_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1707763844",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 10101.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 10101.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11661.0
+      }
+    ],
+    "title": "Sac de Jour Bag Suede with Shearling Nano / brown",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-suede-with-shearling-nano26062411?groupBy=productClicked",
+    "id": "rebag-7697901191345",
+    "productId": "7697901191345",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260624-11_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Suede_20with_20Shearling_20Nano_2D_0002_300x300.jpg?v=1710781949",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17004.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17004.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2678272?groupBy=productClicked",
+    "id": "rebag-7787825692849",
+    "productId": "7787825692849",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267827-2_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1713198637",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 8931.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8931.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Small / gray",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-small2713471?groupBy=productClicked",
+    "id": "rebag-7870037786801",
+    "productId": "7870037786801",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271347-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Small_2D_0002_300x300.jpg?v=1713811311",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12831.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12831.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / blue",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2695191?groupBy=productClicked",
+    "id": "rebag-7870007771313",
+    "productId": "7870007771313",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269519-1_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1713810488",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 16770.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16770.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small26922113?groupBy=productClicked",
+    "id": "rebag-7941030576305",
+    "productId": "7941030576305",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269221-13_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1715618332",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 17043.0,
+    "color": "red",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17043.0
+      }
+    ],
+    "title": "Sunset Crossbody Bag Leather Medium / red",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-crossbody-bag-leather-medium2737266?groupBy=productClicked",
+    "id": "rebag-7926992044209",
+    "productId": "7926992044209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273726-6_20Saint_20Laurent_20Sunset_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715015068",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 4914.0,
+    "color": null,
+    "category": "bucket",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4914.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5772.0
+      }
+    ],
+    "title": "Rive Gauche Bucket Bag Canvas / neutral",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-bucket-bag-canvas-26064922?groupBy=productClicked",
+    "id": "rebag-7697943363761",
+    "productId": "7697943363761",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260649-22_20Saint_20Laurent_20Rive_20Gauche_20Bucket_20Bag_20Canvas_2D_0002_300x300.jpg?v=1710782606",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9555.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9555.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Baby / blue",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-baby26640513?groupBy=productClicked",
+    "id": "rebag-7941044469937",
+    "productId": "7941044469937",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266405-13_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618639",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17706.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17706.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2693291?groupBy=productClicked",
+    "id": "rebag-7787837718705",
+    "productId": "7787837718705",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269329-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1713198958",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 16029.0,
+    "color": "gray",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16029.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 17901.0
+      }
+    ],
+    "title": "LouLou Tote Matelasse Chevron Leather Large / gray",
+    "like": 25,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-tote-matelasse-chevron-leather-large2673701?groupBy=productClicked",
+    "id": "rebag-7756792627377",
+    "productId": "7756792627377",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267370-1_20Saint_20Laurent_20LouLou_20Tote_20Matelasse_20Chevron_20Leather_20Large_2D_0002_300x300.jpg?v=1712600796",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "shopping",
+    "price": 29406.0,
+    "color": "black",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 29406.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 33033.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 36699.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 36699.0
+      }
+    ],
+    "title": "Icare Shopping Tote Quilted Leather Maxi / black",
+    "like": 33,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-icare-shopping-tote-quilted-leather-maxi2517911?groupBy=productClicked",
+    "id": "rebag-7633709301937",
+    "productId": "7633709301937",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/251791-1_20Saint_20Laurent_20Icare_20Shopping_20Tote_20Quilted_20Leather_20Maxi_2D_0002_300x300.jpg?v=1706897870",
+    "folder": "bag/saint laurent/shopping",
+    "condition": "Good",
+    "size": "maxi"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 14625.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14625.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16458.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 18330.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 20358.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 18330.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Crocodile Embossed Leather Baby / red",
+    "like": 35,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-crocodile-embossed-leather-baby2544601?groupBy=productClicked",
+    "id": "rebag-7616438698161",
+    "productId": "7616438698161",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/254460-1_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Crocodile_20Embossed_20Leather_20Baby_2D_0002_300x300.jpg?v=1705088264",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8697.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8697.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Baby / blue",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-baby2676469?groupBy=productClicked",
+    "id": "rebag-7941047091377",
+    "productId": "7941047091377",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267646-9_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618681",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9126.0,
+    "color": "pink",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9126.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / pink",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2634999?groupBy=productClicked",
+    "id": "rebag-7941055414449",
+    "productId": "7941055414449",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263499-9_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1715618860",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 15483.0,
+    "color": "gray",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 15483.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 17745.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 19773.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 19773.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / gray",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small2541746?groupBy=productClicked",
+    "id": "rebag-7636387922097",
+    "productId": "7636387922097",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/254174-6_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1707165887",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17589.0,
+    "color": "red",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17589.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2732163?groupBy=productClicked",
+    "id": "rebag-7941066424497",
+    "productId": "7941066424497",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273216-3_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1715619083",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14469.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14469.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2701361?groupBy=productClicked",
+    "id": "rebag-7869998399665",
+    "productId": "7869998399665",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270136-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713810228",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "envelope",
+    "price": 4212.0,
+    "color": "yellow",
+    "category": "clutch",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4212.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5031.0
+      }
+    ],
+    "title": "Sade Puffer Envelope Clutch Quilted Leather Large / yellow",
+    "like": 60,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sade-puffer-envelope-clutch-quilted-leather-large2244933?groupBy=productClicked",
+    "id": "rebag-7495982252209",
+    "productId": "7495982252209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/224493-3_20Saint_20Laurent_20Sade_20Puffer_20Envelope_20Clutch_20Quilted_20Leather_20Large_2D_0002_300x300.jpg?v=1690570282",
+    "folder": "bag/saint laurent/envelope",
+    "condition": "Good",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9009.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9009.0
+      }
+    ],
+    "title": "Sac de Jour Souple Bag Leather Nano / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-souple-bag-leather-nano2658246?groupBy=productClicked",
+    "id": "rebag-7941046010033",
+    "productId": "7941046010033",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265824-6_20Saint_20Laurent_20Sac_20de_20Jour_20Souple_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618659",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 9945.0,
+    "color": "yellow",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9945.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11505.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 14703.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 14703.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / yellow",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2550981?groupBy=productClicked",
+    "id": "rebag-7628023922865",
+    "productId": "7628023922865",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/255098-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1706305091",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 12948.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 12948.0
+      }
+    ],
+    "title": "Sac de Jour Souple Bag Leather North South / brown",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-souple-bag-leather-north-south26966760?groupBy=productClicked",
+    "id": "rebag-7941031297201",
+    "productId": "7941031297201",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269667-60_20Saint_20Laurent_20Sac_20de_20Jour_20Souple_20Bag_20Leather_20North_20South_2D_0002_300x300.jpg?v=1715618349",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "shopping",
+    "price": 36816.0,
+    "color": "black",
+    "category": "tote",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 36816.0
+      }
+    ],
+    "title": "Icare Shopping Tote Quilted Leather Maxi / black",
+    "like": 19,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-icare-shopping-tote-quilted-leather-maxi24374037?groupBy=productClicked",
+    "id": "rebag-7627489870001",
+    "productId": "7627489870001",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/243740-37_20Saint_20Laurent_20Icare_20Shopping_20Tote_20Quilted_20Leather_20Maxi_2D_0002_300x300.jpg?v=1706290853",
+    "folder": "bag/saint laurent/shopping",
+    "condition": "Very Good",
+    "size": "maxi"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 16692.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16692.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 18603.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 19617.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 19617.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Crocodile Embossed Leather Baby / red",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-crocodile-embossed-leather-baby25817121?groupBy=productClicked",
+    "id": "rebag-7674484588721",
+    "productId": "7674484588721",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/258171-21_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Crocodile_20Embossed_20Leather_20Baby_2D_0002_300x300.jpg?v=1709577925",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 20865.0,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 20865.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Crocodile Embossed Leather Baby / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-crocodile-embossed-leather-baby2664063?groupBy=productClicked",
+    "id": "rebag-7941048271025",
+    "productId": "7941048271025",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266406-3_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Crocodile_20Embossed_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618707",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Great",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14859.0,
+    "color": "red",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14859.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2746152?groupBy=productClicked",
+    "id": "rebag-7941078876337",
+    "productId": "7941078876337",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/274615-2_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1715619348",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 13767.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13767.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15522.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2568861?groupBy=productClicked",
+    "id": "rebag-7685955453105",
+    "productId": "7685955453105",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/256886-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1710184543",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 11973.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11973.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Baby / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-baby2692212?groupBy=productClicked",
+    "id": "rebag-7941053022385",
+    "productId": "7941053022385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269221-2_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618810",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 7956.0,
+    "color": "red",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7956.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Baby / red",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-baby2676455?groupBy=productClicked",
+    "id": "rebag-7941048697009",
+    "productId": "7941048697009",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267645-5_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1715618721",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14859.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14859.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2696343?groupBy=productClicked",
+    "id": "rebag-7869996925105",
+    "productId": "7869996925105",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269634-3_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713810183",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 15405.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 15405.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 17277.0
+      }
+    ],
+    "title": "Sac de Jour Bag Suede with Shearling Medium / brown",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-suede-with-shearling-medium2671453?groupBy=productClicked",
+    "id": "rebag-7756728303793",
+    "productId": "7756728303793",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267145-3_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Suede_20with_20Shearling_20Medium_2D_0002_300x300.jpg?v=1712599652",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 13143.0,
+    "color": "gray",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13143.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 14898.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 15717.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 15717.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / gray",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2612291?groupBy=productClicked",
+    "id": "rebag-7674545438897",
+    "productId": "7674545438897",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/261229-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1709582390",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8775.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8775.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 10296.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Baby / black",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-baby26062470?groupBy=productClicked",
+    "id": "rebag-7697911677105",
+    "productId": "7697911677105",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260624-70_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Baby_2D_0002_300x300.jpg?v=1710782127",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Fair",
+    "size": "baby"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 11193.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 11193.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / blue",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano2705831?groupBy=productClicked",
+    "id": "rebag-7870015111345",
+    "productId": "7870015111345",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270583-1_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1713810694",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sunset",
+    "price": 18993.0,
+    "color": "black",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 18993.0
+      }
+    ],
+    "title": "Sunset Crossbody Bag Leather Medium / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sunset-crossbody-bag-leather-medium2733061?groupBy=productClicked",
+    "id": "rebag-7926941778097",
+    "productId": "7926941778097",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273306-1_20Saint_20Laurent_20Sunset_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715014270",
+    "folder": "bag/saint laurent/sunset",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 16146.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16146.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 18057.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 19032.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 19032.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / blue",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small25300217?groupBy=productClicked",
+    "id": "rebag-7674466369713",
+    "productId": "7674466369713",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253002-17_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1709576242",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17940.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17940.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2698171?groupBy=productClicked",
+    "id": "rebag-7869997088945",
+    "productId": "7869997088945",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269817-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810188",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 9516.0,
+    "color": "pink",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 9516.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 11076.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 12909.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 13611.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 12909.0
+      }
+    ],
+    "title": "Sac de Jour NM Bag Leather Small / pink",
+    "like": 12,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-nm-bag-leather-small2551741?groupBy=productClicked",
+    "id": "rebag-7621114396849",
+    "productId": "7621114396849",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/255174-1_20Saint_20Laurent_20Sac_20de_20Jour_20NM_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1705696978",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 14001.0,
+    "color": "black",
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14001.0
+      }
+    ],
+    "title": "Rive Gauche Shopper Tote Raffia with Canvas Large / black",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-shopper-tote-raffia-with-canvas-large2660621?groupBy=productClicked",
+    "id": "rebag-7707798438065",
+    "productId": "7707798438065",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266062-1_20Saint_20Laurent_20Rive_20Gauche_20Shopper_20Tote_20Raffia_20with_20Canvas_20Large_2D_0002_300x300.jpg?v=1711392866",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Great",
+    "size": "large"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 13572.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 13572.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2696171?groupBy=productClicked",
+    "id": "rebag-7787843944625",
+    "productId": "7787843944625",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269617-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1713199109",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "niki",
+    "price": 14703.0,
+    "color": "yellow",
+    "category": "bag",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14703.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 15678.0
+      }
+    ],
+    "title": "Niki Chain Flap Bag Raffia Medium / yellow",
+    "like": 24,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-niki-chain-flap-bag-raffia-medium2639841?groupBy=productClicked",
+    "id": "rebag-7697993007281",
+    "productId": "7697993007281",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263984-1_20Saint_20Laurent_20Niki_20Chain_20Flap_20Bag_20Raffia_20Medium_2D_0002_300x300.jpg?v=1710783299",
+    "folder": "bag/saint laurent/niki",
+    "condition": "Excellent",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 16341.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16341.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2702361?groupBy=productClicked",
+    "id": "rebag-7926915530929",
+    "productId": "7926915530929",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270236-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1715013801",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 21255.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 21255.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Small / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-small2737491?groupBy=productClicked",
+    "id": "rebag-7926962487473",
+    "productId": "7926962487473",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273749-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1715014605",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "sac de jour",
+    "price": 8814.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8814.0
+      }
+    ],
+    "title": "Sac de Jour Bag Leather Nano / blue",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-sac-de-jour-bag-leather-nano26489025?groupBy=productClicked",
+    "id": "rebag-7787834179761",
+    "productId": "7787834179761",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/264890-25_20Saint_20Laurent_20Sac_20de_20Jour_20Bag_20Leather_20Nano_2D_0002_300x300.jpg?v=1713198869",
+    "folder": "bag/saint laurent/sac de jour",
+    "condition": "Good",
+    "size": "nano"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 5577.0,
+    "color": null,
+    "category": "bucket",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5577.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6513.0
+      }
+    ],
+    "title": "Rive Gauche Bucket Bag Canvas / neutral",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-bucket-bag-canvas-26064920?groupBy=productClicked",
+    "id": "rebag-7697943232689",
+    "productId": "7697943232689",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260649-20_20Saint_20Laurent_20Rive_20Gauche_20Bucket_20Bag_20Canvas_2D_0002_300x300.jpg?v=1710782603",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14859.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14859.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2697691?groupBy=productClicked",
+    "id": "rebag-7869997056177",
+    "productId": "7869997056177",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269769-1_20Saint_20Laurent_20LouLou_20Tablet_20Holder_20Flap_20Bag_20Matelasse_20Chevron_20Leather_2D_0002_300x300.jpg?v=1713810188",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Great",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "rive gauche",
+    "price": 5577.0,
+    "color": null,
+    "category": "bucket",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5577.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6513.0
+      }
+    ],
+    "title": "Rive Gauche Bucket Bag Canvas / neutral",
+    "like": 12,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-rive-gauche-bucket-bag-canvas-26064923?groupBy=productClicked",
+    "id": "rebag-7697943429297",
+    "productId": "7697943429297",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260649-23_20Saint_20Laurent_20Rive_20Gauche_20Bucket_20Bag_20Canvas_2D_0002_300x300.jpg?v=1710782606",
+    "folder": "bag/saint laurent/rive gauche",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 4703.4,
+    "color": "black",
+    "category": "tote",
+    "material": "nylon",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4703.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5694.0
+      }
+    ],
+    "title": "Puffer Tote Nylon Tall / black",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-puffer-tote-nylon-tall26297342?groupBy=productClicked",
+    "id": "rebag-7756719161521",
+    "productId": "7756719161521",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262973-42_20Saint_20Laurent_20Puffer_20Tote_20Nylon_20Tall_2D_0002_300x300.jpg?v=1712599432",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": null
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "lou",
+    "price": 14079.0,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14079.0
+      }
+    ],
+    "title": "Lou Camera Bag Matelasse Chevron Leather Mini / black",
+    "like": 2,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-lou-camera-bag-matelasse-chevron-leather-mini2726561?groupBy=productClicked",
+    "id": "rebag-7926925721777",
+    "productId": "7926925721777",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272656-1_20Saint_20Laurent_20Lou_20Camera_20Bag_20Matelasse_20Chevron_20Leather_20Mini_2D_0002_300x300.jpg?v=1715013987",
+    "folder": "bag/saint laurent/lou",
+    "condition": "Excellent",
+    "size": "mini"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14352.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14352.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2712801?groupBy=productClicked",
+    "id": "rebag-7914412867761",
+    "productId": "7914412867761",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271280-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1714411709",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 14469.0,
+    "color": "gray",
+    "category": "shoulder bag",
+    "material": "velvet",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14469.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 16263.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Velvet Small / gray",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-velvet-small2547391?groupBy=productClicked",
+    "id": "rebag-7686003032241",
+    "productId": "7686003032241",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/254739-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Velvet_20Small_2D_0002_300x300.jpg?v=1710185175",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 17940.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 17940.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Medium / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-medium2716031?groupBy=productClicked",
+    "id": "rebag-7926917103793",
+    "productId": "7926917103793",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271603-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Medium_2D_0002_300x300.jpg?v=1715013825",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "loulou",
+    "price": 14391.0,
+    "color": "black",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 14391.0
+      }
+    ],
+    "title": "Loulou Shoulder Bag Matelasse Chevron Leather Toy / black",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-shoulder-bag-matelasse-chevron-leather-toy2706601?groupBy=productClicked",
+    "id": "rebag-7926916546737",
+    "productId": "7926916546737",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270660-1_20Saint_20Laurent_20Loulou_20Shoulder_20Bag_20Matelasse_20Chevron_20Leather_20Toy_2D_0002_300x300.jpg?v=1715013816",
+    "folder": "bag/saint laurent/loulou",
+    "condition": "Very Good",
+    "size": "toy"
+  },
+  {
+    "brand": "Saint Laurent",
+    "collection": "puffer",
+    "price": 16653.0,
+    "color": "green",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 16653.0
+      }
+    ],
+    "title": "Loulou Puffer Shoulder Bag Quilted Leather Mini / green",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-saint-laurent-loulou-puffer-shoulder-bag-quilted-leather-mini2699791?groupBy=productClicked",
+    "id": "rebag-7870026547377",
+    "productId": "7870026547377",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269979-1_20Saint_20Laurent_20Loulou_20Puffer_20Shoulder_20Bag_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1713811021",
+    "folder": "bag/saint laurent/puffer",
+    "condition": "Great",
+    "size": "mini"
+  }
+]

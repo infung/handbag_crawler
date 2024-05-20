@@ -1,0 +1,986 @@
+[
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 5213.364,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5213.364
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5213.364
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5213.364
+      },
+      {
+        "date": "2024-01-24",
+        "price": 5213.364
+      },
+      {
+        "date": "2024-02-24",
+        "price": 5213.364
+      }
+    ],
+    "title": "Loewe Amazona 28 Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-amazona-28-leather-handbag-3983290.html",
+    "id": "truefacet-3983290",
+    "productId": "3983290",
+    "image": "https://media.truefacet.com/media/catalog/product/4/1/4136084114c0e7c3708f88abdf60135a_2.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 3121.56,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3121.56
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3121.56
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3121.56
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3121.56
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3121.56
+      }
+    ],
+    "title": "Loewe Anagram Leather Shoulder Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-leather-shoulder-bag-3983287.html",
+    "id": "truefacet-3983287",
+    "productId": "3983287",
+    "image": "https://media.truefacet.com/media/catalog/product/a/2/a25392e486f07f48d965d4c21ef1e662.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "goya",
+    "price": 5318.82,
+    "color": null,
+    "category": "briefcase",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5318.82
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5318.82
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5318.82
+      },
+      {
+        "date": "2024-01-24",
+        "price": 5318.82
+      },
+      {
+        "date": "2024-02-24",
+        "price": 5318.82
+      }
+    ],
+    "title": "Loewe Goya Leather Briefcase",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-goya-leather-briefcase.html",
+    "id": "truefacet-3999420",
+    "productId": "3999420",
+    "image": "https://media.truefacet.com/media/catalog/product/f/0/f0ae93bd92a85836361d7ff14b410c6f.jpg",
+    "folder": "bag/loewe/goya",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2551.0679999999998,
+    "color": null,
+    "category": "crossbody",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2551.0679999999998
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2551.0679999999998
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2551.0679999999998
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2551.0679999999998
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2551.0679999999998
+      }
+    ],
+    "title": "Loewe Anagram Canvas Crossbody Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-canvas-crossbody-bag-3999416.html",
+    "id": "truefacet-3999416",
+    "productId": "3999416",
+    "image": "https://media.truefacet.com/media/catalog/product/0/1/01bbaa0c52a7e9c4913dc2b69590a265.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 4781.4,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4781.4
+      }
+    ],
+    "title": "Loewe Amazona 36 Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-amazona-36-leather-handbag-3999414.html",
+    "id": "truefacet-3999414",
+    "productId": "3999414",
+    "image": "https://media.truefacet.com/media/catalog/product/3/f/3f3fdc940ddc53c2777891bf74999930.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "cushion",
+    "price": 5856.24,
+    "color": null,
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-01-24",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-02-24",
+        "price": 5856.24
+      }
+    ],
+    "title": "Loewe Small Cushion Canvas Tote Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-small-cushion-canvas-tote-bag.html",
+    "id": "truefacet-3997792",
+    "productId": "3997792",
+    "image": "https://media.truefacet.com/media/catalog/product/2/0/20f9fc7abedbb9eb887134db45094990_1.jpg",
+    "folder": "bag/loewe/cushion",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": "small"
+  },
+  {
+    "brand": "Loewe",
+    "collection": "raffia",
+    "price": 4285.32,
+    "color": null,
+    "category": "shoulder bag",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 4285.32
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4285.32
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4285.32
+      },
+      {
+        "date": "2024-01-24",
+        "price": 4285.32
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4285.32
+      }
+    ],
+    "title": "Loewe Raffia Shoulder Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-raffia-shoulder-bag.html",
+    "id": "truefacet-3983324",
+    "productId": "3983324",
+    "image": "https://media.truefacet.com/media/catalog/product/7/f/7f6fd6f00bce6268d2d510b0803dfbf3.jpg",
+    "folder": "bag/loewe/raffia",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "goya",
+    "price": 7179.12,
+    "color": null,
+    "category": "backpack",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-01-24",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7179.12
+      }
+    ],
+    "title": "Loewe Goya Leather Backpack",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-goya-leather-backpack.html",
+    "id": "truefacet-3983306",
+    "productId": "3983306",
+    "image": "https://media.truefacet.com/media/catalog/product/9/9/99bb9f89987cd0a2109389c6fd139bae.jpg",
+    "folder": "bag/loewe/goya",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "gate",
+    "price": 6104.28,
+    "color": null,
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 6104.28
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6104.28
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6104.28
+      },
+      {
+        "date": "2024-01-24",
+        "price": 6104.28
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6104.28
+      }
+    ],
+    "title": "Loewe Mini Gate Leather Belt Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-gate-leather-belt-bag.html",
+    "id": "truefacet-3983305",
+    "productId": "3983305",
+    "image": "https://media.truefacet.com/media/catalog/product/0/9/09fea1be256afcdb5dd3b6ad995c7a00_2.jpg",
+    "folder": "bag/loewe/gate",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": "mini"
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 3954.6,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3954.6
+      }
+    ],
+    "title": "Loewe Amazona 36 Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-amazona-36-leather-handbag-3983296.html",
+    "id": "truefacet-3983296",
+    "productId": "3983296",
+    "image": "https://media.truefacet.com/media/catalog/product/6/d/6d6f558d2b16a2e5d5949d7f15c06f8d.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 4368.0,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 4368.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4368.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4368.0
+      },
+      {
+        "date": "2024-01-24",
+        "price": 4368.0
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4368.0
+      }
+    ],
+    "title": "Loewe Amazona 36 Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-amazona-36-leather-handbag-3983295.html",
+    "id": "truefacet-3983295",
+    "productId": "3983295",
+    "image": "https://media.truefacet.com/media/catalog/product/2/9/2970eaa74317b0af46002b085fe6d4c2.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 3293.16,
+    "color": null,
+    "category": "clutch",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3293.16
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3293.16
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3293.16
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3293.16
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3293.16
+      }
+    ],
+    "title": "Loewe Embossed Anagram Leather Clutch Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-embossed-anagram-leather-clutch-bag.html",
+    "id": "truefacet-3983289",
+    "productId": "3983289",
+    "image": "https://media.truefacet.com/media/catalog/product/f/8/f890f0d5b054941401aa4b0e4ec1ae68.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 3868.7999999999997,
+    "color": null,
+    "category": "travel bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3868.7999999999997
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3868.7999999999997
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3868.7999999999997
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3868.7999999999997
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3868.7999999999997
+      }
+    ],
+    "title": "Loewe Anagram Leather Travel Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-leather-travel-bag.html",
+    "id": "truefacet-3983288",
+    "productId": "3983288",
+    "image": "https://media.truefacet.com/media/catalog/product/1/0/10389054e151a94b91807a068dd1ef3a_2.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 4698.719999999999,
+    "color": null,
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 4698.719999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4698.719999999999
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4698.719999999999
+      },
+      {
+        "date": "2024-01-24",
+        "price": 4698.719999999999
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4698.719999999999
+      }
+    ],
+    "title": "Loewe Anagram Leather Shoulder Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-leather-shoulder-bag.html",
+    "id": "truefacet-3983286",
+    "productId": "3983286",
+    "image": "https://media.truefacet.com/media/catalog/product/e/8/e81eac2d8e9069e0d5294268969a37de_2.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2714.4,
+    "color": null,
+    "category": "bucket",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2714.4
+      }
+    ],
+    "title": "Loewe Anagram Leather Bucket Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-leather-bucket-bag.html",
+    "id": "truefacet-3983282",
+    "productId": "3983282",
+    "image": "https://media.truefacet.com/media/catalog/product/e/a/ea529feed027d53e3a1152b2736c8dcb.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2879.7599999999998,
+    "color": null,
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2879.7599999999998
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2879.7599999999998
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2879.7599999999998
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2879.7599999999998
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2879.7599999999998
+      }
+    ],
+    "title": "Loewe Anagram Canvas Tote Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-canvas-tote-bag-3983280.html",
+    "id": "truefacet-3983280",
+    "productId": "3983280",
+    "image": "https://media.truefacet.com/media/catalog/product/9/b/9bdefc1d940db698bd69f302e316d0eb.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2714.4,
+    "color": null,
+    "category": "tote",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2714.4
+      }
+    ],
+    "title": "Loewe Anagram Canvas Tote Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-canvas-tote-bag.html",
+    "id": "truefacet-3983279",
+    "productId": "3983279",
+    "image": "https://media.truefacet.com/media/catalog/product/8/f/8fa1cda2662e597ee962296e3c71ea13_2.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2714.4,
+    "color": null,
+    "category": "crossbody",
+    "material": "canvas",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2714.4
+      }
+    ],
+    "title": "Loewe Anagram Canvas Crossbody Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-canvas-crossbody-bag.html",
+    "id": "truefacet-3983278",
+    "productId": "3983278",
+    "image": "https://media.truefacet.com/media/catalog/product/6/6/66274a4b82d7874f35da0a5d84c59013.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 3954.6,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3954.6
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3954.6
+      }
+    ],
+    "title": "Loewe Amazona Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-amazona-leather-handbag-3983275.html",
+    "id": "truefacet-3983275",
+    "productId": "3983275",
+    "image": "https://media.truefacet.com/media/catalog/product/b/0/b0b32c0f4f353754953adc0f8412c71c_2.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "cushion",
+    "price": 5856.24,
+    "color": null,
+    "category": "tote",
+    "material": null,
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-01-24",
+        "price": 5856.24
+      },
+      {
+        "date": "2024-02-24",
+        "price": 5856.24
+      }
+    ],
+    "title": "Loewe Paulas Ibiza Cushion Tote Bag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-paulas-ibiza-cushion-tote-bag.html",
+    "id": "truefacet-3981764",
+    "productId": "3981764",
+    "image": "https://media.truefacet.com/media/catalog/product/4/c/4c8347e77943abdf48322766da2be25a.jpg",
+    "folder": "bag/loewe/cushion",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "anagram",
+    "price": 2714.4,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 2714.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2714.4
+      }
+    ],
+    "title": "Loewe Anagram Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/loewe-anagram-leather-handbag.html",
+    "id": "truefacet-3981761",
+    "productId": "3981761",
+    "image": "https://media.truefacet.com/media/catalog/product/a/1/a18a7d176e28bd1542eee66918c5f02b.jpg",
+    "folder": "bag/loewe/anagram",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "goya",
+    "price": 7179.12,
+    "color": null,
+    "category": "backpack",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-01-24",
+        "price": 7179.12
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7179.12
+      }
+    ],
+    "title": "Loewe Goya Leather Backpack",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/goya-leather-backpack.html",
+    "id": "truefacet-3960734",
+    "productId": "3960734",
+    "image": "https://media.truefacet.com/media/catalog/product/6/3/63efe81664b0fcf505bc9e2b0ed7c3ab.jpg",
+    "folder": "bag/loewe/goya",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 3789.24,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 3789.24
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3789.24
+      },
+      {
+        "date": "2024-03-07",
+        "price": 3789.24
+      },
+      {
+        "date": "2024-01-24",
+        "price": 3789.24
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3789.24
+      }
+    ],
+    "title": "Loewe Amazona Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/amazona-leather-handbag-3960732.html",
+    "id": "truefacet-3960732",
+    "productId": "3960732",
+    "image": "https://media.truefacet.com/media/catalog/product/e/e/ee576cafb9ced1433a02e22dc0c58372_1.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  },
+  {
+    "brand": "Loewe",
+    "collection": "amazona",
+    "price": 4781.4,
+    "color": null,
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-16",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-01-24",
+        "price": 4781.4
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4781.4
+      }
+    ],
+    "title": "Loewe Amazona Leather Handbag",
+    "like": 0,
+    "source": "Truefacet",
+    "url": "https://www.truefacet.com/amazona-leather-handbag-3960731.html",
+    "id": "truefacet-3960731",
+    "productId": "3960731",
+    "image": "https://media.truefacet.com/media/catalog/product/a/c/ac40c85809291054abcbb2e29d74f2a3_1.jpg",
+    "folder": "bag/loewe/amazona",
+    "currency": "HKD",
+    "condition": "Pre-Owned",
+    "size": null
+  }
+]

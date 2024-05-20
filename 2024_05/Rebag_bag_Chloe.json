@@ -1,0 +1,2236 @@
+[
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4321.2,
+    "color": "brown",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4321.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5070.0
+      }
+    ],
+    "title": "Marcie Shoulder Bag Leather Large / brown",
+    "like": 14,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-shoulder-bag-leather-large2636751?groupBy=productClicked",
+    "id": "rebag-7707781759153",
+    "productId": "7707781759153",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/263675-1_20Chloe_20Marcie_20Shoulder_20Bag_20Leather_20Large_2D_0002_300x300.jpg?v=1711392415",
+    "folder": "bag/chloe/marcie",
+    "condition": "Good",
+    "size": "large"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7098.0,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7098.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 8112.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Medium / brown",
+    "like": 14,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-medium2460743?groupBy=productClicked",
+    "id": "rebag-7697890934961",
+    "productId": "7697890934961",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/246074-3_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1710781785",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 5733.0,
+    "color": "black",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5733.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6669.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7644.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Medium / black",
+    "like": 18,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-medium2565496?groupBy=productClicked",
+    "id": "rebag-7674430718129",
+    "productId": "7674430718129",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/256549-6_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Small_2D_0002_300x300.jpg?v=1709571888",
+    "folder": "bag/chloe/hudson",
+    "condition": "Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6942.0,
+    "color": "brown",
+    "category": "shoulder bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6942.0
+      }
+    ],
+    "title": "Marcie Shoulder Bag Leather Large / brown",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-shoulder-bag-leather-large2730921?groupBy=productClicked",
+    "id": "rebag-7926935650481",
+    "productId": "7926935650481",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273092-1_20Chloe_20Marcie_20Shoulder_20Bag_20Leather_20Large_2D_0003_300x300.jpg?v=1715014161",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7995.0,
+    "color": "blue",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7995.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Small / blue",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-small2688771?groupBy=productClicked",
+    "id": "rebag-7926934143153",
+    "productId": "7926934143153",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268877-1_20Chloe_20Marcie_20Satchel_20Leather_20Small_2D_0002_300x300.jpg?v=1715014137",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "aby",
+    "price": 4914.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4914.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5772.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6669.0
+      }
+    ],
+    "title": "Aby Day Bag Leather Small / brown",
+    "like": 67,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-aby-day-bag-leather-small251787311?groupBy=productClicked",
+    "id": "rebag-7627553898673",
+    "productId": "7627553898673",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/251787-311_20Chloe_20Aby_20Day_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1706293168",
+    "folder": "bag/chloe/aby",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "aby",
+    "price": 5343.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5343.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 8229.0
+      }
+    ],
+    "title": "Aby Day Bag Leather Small / brown",
+    "like": 16,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-aby-day-bag-leather-small2676151?groupBy=productClicked",
+    "id": "rebag-7756731056305",
+    "productId": "7756731056305",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267615-1_20Chloe_20Aby_20Day_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1712599713",
+    "folder": "bag/chloe/aby",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 3970.2,
+    "color": "brown",
+    "category": "handbag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3970.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4680.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5265.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Suede Mini / brown",
+    "like": 49,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-suede-mini2618781?groupBy=productClicked",
+    "id": "rebag-7658071031985",
+    "productId": "7658071031985",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/261878-1_20Chloe_20Hudson_20Handbag_20Whipstitch_20Suede_20Mini_2D_0002_300x300.jpg?v=1708709206",
+    "folder": "bag/chloe/hudson",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 4141.8,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4141.8
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Small / neutral",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-small2715241?groupBy=productClicked",
+    "id": "rebag-7870030577841",
+    "productId": "7870030577841",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271524-1_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1713811114",
+    "folder": "bag/chloe/drew",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "aby",
+    "price": 4422.599999999999,
+    "color": null,
+    "category": "bag",
+    "material": "lizard",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4422.599999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4914.0
+      }
+    ],
+    "title": "Aby Lock Bag Lizard Embossed Leather Small / neutral",
+    "like": 35,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-aby-lock-bag-lizard-embossed-leather-small2577511?groupBy=productClicked",
+    "id": "rebag-7685995888817",
+    "productId": "7685995888817",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/257751-1_20Chloe_20Aby_20Lock_20Bag_20Lizard_20Embossed_20Leather_20Small_2D_0002_300x300.jpg?v=1710184982",
+    "folder": "bag/chloe/aby",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6981.0,
+    "color": "red",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6981.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Medium / red",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-medium2712941?groupBy=productClicked",
+    "id": "rebag-7914434953393",
+    "productId": "7914434953393",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271294-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1714412143",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7488.0,
+    "color": "black",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7488.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Medium / black",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-medium2732651?groupBy=productClicked",
+    "id": "rebag-7926941417649",
+    "productId": "7926941417649",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273265-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1715014262",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6981.0,
+    "color": "brown",
+    "category": "hobo",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6981.0
+      }
+    ],
+    "title": "Marcie Hobo Leather Large / brown",
+    "like": 24,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-hobo-leather-large2703551?groupBy=productClicked",
+    "id": "rebag-7787868487857",
+    "productId": "7787868487857",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270355-1_20Chloe_20Marcie_20Hobo_20Leather_20Large_2D_0003_300x300.jpg?v=1713199854",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5733.0,
+    "color": "red",
+    "category": "hobo",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5733.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6669.0
+      }
+    ],
+    "title": "Marcie Hobo Leather Large / red",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-hobo-leather-large2658231?groupBy=productClicked",
+    "id": "rebag-7707827962033",
+    "productId": "7707827962033",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265823-1_20Chloe_20Marcie_20Hobo_20Leather_20Large_2D_0002_300x300.jpg?v=1711393582",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "large"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "paraty",
+    "price": 3159.0,
+    "color": "red",
+    "category": "top handle",
+    "material": "python",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3159.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3705.0
+      }
+    ],
+    "title": "Paraty Top Handle Bag Python Medium / red",
+    "like": 24,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-paraty-top-handle-bag-python-medium2626301?groupBy=productClicked",
+    "id": "rebag-7726340473009",
+    "productId": "7726340473009",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262630-1_20Chloe_20Paraty_20Top_20Handle_20Bag_20Python_20Medium_2D_0002_300x300.jpg?v=1711990443",
+    "folder": "bag/chloe/paraty",
+    "condition": "Fair",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5538.0,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5538.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6474.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Mini / brown",
+    "like": 19,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-mini2693721?groupBy=productClicked",
+    "id": "rebag-7756785320113",
+    "productId": "7756785320113",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269372-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1712600678",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5233.8,
+    "color": "red",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5233.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6123.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Medium / red",
+    "like": 14,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-medium2680421?groupBy=productClicked",
+    "id": "rebag-7726410629297",
+    "productId": "7726410629297",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268042-1_20Chloe_20Marcie_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1711991582",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6396.0,
+    "color": "red",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6396.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Medium / red",
+    "like": 20,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-medium2697961?groupBy=productClicked",
+    "id": "rebag-7787866489009",
+    "productId": "7787866489009",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269796-1_20Chloe_20Marcie_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1713199796",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5304.0,
+    "color": "blue",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5304.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Medium / blue",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-medium2707471?groupBy=productClicked",
+    "id": "rebag-7870020944049",
+    "productId": "7870020944049",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270747-1_20Chloe_20Marcie_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810871",
+    "folder": "bag/chloe/marcie",
+    "condition": "Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "nile",
+    "price": 6123.0,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6123.0
+      }
+    ],
+    "title": "Nile Crossbody Bag Leather Medium / neutral",
+    "like": 6,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-nile-crossbody-bag-leather-medium2707472?groupBy=productClicked",
+    "id": "rebag-7870014849201",
+    "productId": "7870014849201",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270747-2_20Chloe_20Nile_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810684",
+    "folder": "bag/chloe/nile",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 3650.4,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3650.4
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / brown",
+    "like": 38,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2592831?groupBy=productClicked",
+    "id": "rebag-7657839034545",
+    "productId": "7657839034545",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259283-1_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1708702680",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7059.0,
+    "color": null,
+    "category": "top handle",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7059.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 8073.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8502.0
+      }
+    ],
+    "title": "Marcie Top Handle Flap Bag Leather Small / neutral",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-top-handle-flap-bag-leather-small2633041?groupBy=productClicked",
+    "id": "rebag-7674593411249",
+    "productId": "7674593411249",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/263304-1_20Chloe_20Marcie_20Top_20Handle_20Flap_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1709585829",
+    "folder": "bag/chloe/marcie",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5577.0,
+    "color": "green",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5577.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6513.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7254.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Small / green",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-small2504391?groupBy=productClicked",
+    "id": "rebag-7595183636657",
+    "productId": "7595183636657",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/250439-1_20Chloe_20Marcie_20Satchel_20Leather_20Small_2D_0002_300x300.jpg?v=1702078127",
+    "folder": "bag/chloe/marcie",
+    "condition": "Fair",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "aby",
+    "price": 5265.0,
+    "color": "blue",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5265.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6162.0
+      }
+    ],
+    "title": "Aby Day Bag Leather Small / blue",
+    "like": 25,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-aby-day-bag-leather-small2647751?groupBy=productClicked",
+    "id": "rebag-7697983340721",
+    "productId": "7697983340721",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/264775-1_20Chloe_20Aby_20Day_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1710783168",
+    "folder": "bag/chloe/aby",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 5733.0,
+    "color": null,
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5733.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6669.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8307.0
+      }
+    ],
+    "title": "Faye Day Bag Leather Small / neutral",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-day-bag-leather-small2545062?groupBy=productClicked",
+    "id": "rebag-7621096538289",
+    "productId": "7621096538289",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/254506-2_20Chloe_20Faye_20Day_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1705694730",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "nile",
+    "price": 4843.8,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4843.8
+      }
+    ],
+    "title": "Nile Crossbody Bag Leather Mini / neutral",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-nile-crossbody-bag-leather-mini2716041?groupBy=productClicked",
+    "id": "rebag-7926944694449",
+    "productId": "7926944694449",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271604-1_20Chloe_20Nile_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1715014315",
+    "folder": "bag/chloe/nile",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "aby",
+    "price": 5233.8,
+    "color": "red",
+    "category": "bag",
+    "material": "crocodile",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5233.8
+      }
+    ],
+    "title": "Aby Lock Bag Crocodile Embossed Leather Small / red",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-aby-lock-bag-crocodile-embossed-leather-small26858963?groupBy=productClicked",
+    "id": "rebag-7926948298929",
+    "productId": "7926948298929",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268589-63_20Chloe_20Aby_20Lock_20Bag_20Crocodile_20Embossed_20Leather_20Small_2D_0002_300x300.jpg?v=1715014376",
+    "folder": "bag/chloe/aby",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7059.0,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7059.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Mini / brown",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-mini2725141?groupBy=productClicked",
+    "id": "rebag-7926923886769",
+    "productId": "7926923886769",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272514-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1715013950",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3268.2,
+    "color": "black",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3268.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4173.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4719.0
+      }
+    ],
+    "title": "Faye Day Bag Leather Mini / black",
+    "like": 42,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-day-bag-leather-mini2495642?groupBy=productClicked",
+    "id": "rebag-7636288274609",
+    "productId": "7636288274609",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/249564-2_20Chloe_20Faye_20Day_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1707156014",
+    "folder": "bag/chloe/faye",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 3510.0,
+    "color": "red",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3510.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4134.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4602.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Mini / red",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-mini2503627?groupBy=productClicked",
+    "id": "rebag-7616384139441",
+    "productId": "7616384139441",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/250362-7_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Mini_2D_0002_300x300.jpg?v=1705080632",
+    "folder": "bag/chloe/hudson",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 7488.0,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7488.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Medium / brown",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-medium2724111?groupBy=productClicked",
+    "id": "rebag-7914428694705",
+    "productId": "7914428694705",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272411-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1714412019",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6318.0,
+    "color": "red",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6318.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 7293.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7683.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Medium / red",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-medium2633661?groupBy=productClicked",
+    "id": "rebag-7674586857649",
+    "productId": "7674586857649",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/263366-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1709585541",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 4391.4,
+    "color": "black",
+    "category": "crossbody",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4391.4
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather and Suede Small / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-and-suede-small2720331?groupBy=productClicked",
+    "id": "rebag-7914419290289",
+    "productId": "7914419290289",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272033-1_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20and_20Suede_20Small_2D_0002_300x300.jpg?v=1714411845",
+    "folder": "bag/chloe/drew",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3338.4,
+    "color": "green",
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3338.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3939.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4485.0
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / green",
+    "like": 36,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2606441?groupBy=productClicked",
+    "id": "rebag-7658028925105",
+    "productId": "7658028925105",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/260644-1_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1708708039",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 4352.4,
+    "color": null,
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4352.4
+      }
+    ],
+    "title": "Faye Day Bag Leather Mini / neutral",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-day-bag-leather-mini2664057?groupBy=productClicked",
+    "id": "rebag-7941046272177",
+    "productId": "7941046272177",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266405-7_20Chloe_20Faye_20Day_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1715618668",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4812.599999999999,
+    "color": "blue",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4812.599999999999
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Mini / blue",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-mini2676453?groupBy=productClicked",
+    "id": "rebag-7941046829233",
+    "productId": "7941046829233",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/267645-3_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1715618678",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4984.2,
+    "color": "blue",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4984.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5850.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6513.0
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / blue",
+    "like": 32,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2595763?groupBy=productClicked",
+    "id": "rebag-7657946808497",
+    "productId": "7657946808497",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259576-3_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1708705688",
+    "folder": "bag/chloe/marcie",
+    "condition": "Excellent",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 4531.8,
+    "color": "multicolor",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4531.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5304.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5928.0
+      }
+    ],
+    "title": "Multicolor Fringe Hudson Bag Leather Small / multicolor",
+    "like": 27,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-multicolor-fringe-hudson-bag-leather-small2532875?groupBy=productClicked",
+    "id": "rebag-7616408813745",
+    "productId": "7616408813745",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253287-5_20Chloe_20Multicolor_20Fringe_20Hudson_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1705085107",
+    "folder": "bag/chloe/hudson",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4461.599999999999,
+    "color": "purple",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4461.599999999999
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5226.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Mini / purple",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-mini2623081?groupBy=productClicked",
+    "id": "rebag-7707809448113",
+    "productId": "7707809448113",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/262308-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1711393147",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5233.8,
+    "color": "black",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5233.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6123.0
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / black",
+    "like": 30,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2649621?groupBy=productClicked",
+    "id": "rebag-7707787067569",
+    "productId": "7707787067569",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/264962-1_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1711392557",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 8853.0,
+    "color": "black",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8853.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Medium / black",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-medium2714451?groupBy=productClicked",
+    "id": "rebag-7870021468337",
+    "productId": "7870021468337",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271445-1_20Chloe_20Marcie_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810885",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 2636.4,
+    "color": "yellow",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 2636.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3081.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4095.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Mini / yellow",
+    "like": 41,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-mini2468833?groupBy=productClicked",
+    "id": "rebag-7602521145521",
+    "productId": "7602521145521",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/246883-3_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Mini_2D_0002_300x300.jpg?v=1702846215",
+    "folder": "bag/chloe/drew",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 5928.0,
+    "color": "pink",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5928.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Small / pink",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-small2713011?groupBy=productClicked",
+    "id": "rebag-7914435346609",
+    "productId": "7914435346609",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271301-1_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1714412149",
+    "folder": "bag/chloe/drew",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 7488.0,
+    "color": "brown",
+    "category": "handbag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7488.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Suede Small / brown",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-suede-small2737581?groupBy=productClicked",
+    "id": "rebag-7941043749041",
+    "productId": "7941043749041",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/273758-1_20Chloe_20Hudson_20Handbag_20Whipstitch_20Suede_20Small_2D_0002_300x300.jpg?v=1715618615",
+    "folder": "bag/chloe/hudson",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 4703.4,
+    "color": "gray",
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4703.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5538.0
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / gray",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2666232?groupBy=productClicked",
+    "id": "rebag-7726402142385",
+    "productId": "7726402142385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266623-2_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1711991426",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 6864.0,
+    "color": "black",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6864.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Medium / black",
+    "like": 4,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-medium2709162?groupBy=productClicked",
+    "id": "rebag-7869998334129",
+    "productId": "7869998334129",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270916-2_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810228",
+    "folder": "bag/chloe/drew",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4141.8,
+    "color": null,
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4141.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4875.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Small / neutral",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-small2669561?groupBy=productClicked",
+    "id": "rebag-7756748718257",
+    "productId": "7756748718257",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266956-1_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1712600023",
+    "folder": "bag/chloe/marcie",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 5577.0,
+    "color": "blue",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5577.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6864.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7644.0
+      }
+    ],
+    "title": "Marcie Crossbody Bag Leather Small / blue",
+    "like": 75,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-crossbody-bag-leather-small2531115?groupBy=productClicked",
+    "id": "rebag-7616403996849",
+    "productId": "7616403996849",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253111-5_20Chloe_20Marcie_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1705083985",
+    "folder": "bag/chloe/marcie",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 3580.2,
+    "color": "red",
+    "category": "hobo",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3580.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4992.0
+      }
+    ],
+    "title": "Marcie Hobo Leather Medium / red",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-hobo-leather-medium2576121?groupBy=productClicked",
+    "id": "rebag-7726334738609",
+    "productId": "7726334738609",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/257612-1_20Chloe_20Marcie_20Hobo_20Leather_20Medium_2D_0002_300x300.jpg?v=1711990341",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 5811.0,
+    "color": "yellow",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5811.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6747.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7137.0
+      }
+    ],
+    "title": "Faye Day Bag Leather Small / yellow",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-day-bag-leather-small2590164?groupBy=productClicked",
+    "id": "rebag-7674542686385",
+    "productId": "7674542686385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259016-4_20Chloe_20Faye_20Day_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1709582079",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "pixie",
+    "price": 4321.2,
+    "color": null,
+    "category": "crossbody",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4321.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5070.0
+      }
+    ],
+    "title": "Pixie Crossbody Bag Studded Suede and Leather Small / neutral",
+    "like": 20,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-pixie-crossbody-bag-studded-suede-and-leather-small25841183?groupBy=productClicked",
+    "id": "rebag-7685998084273",
+    "productId": "7685998084273",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/258411-83_20Chloe_20Pixie_20Crossbody_20Bag_20Studded_20Suede_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1710185040",
+    "folder": "bag/chloe/pixie",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 4531.8,
+    "color": "blue",
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4531.8
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5538.0
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / blue",
+    "like": 13,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2689884?groupBy=productClicked",
+    "id": "rebag-7756800721073",
+    "productId": "7756800721073",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268988-4_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1712600925",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 7059.0,
+    "color": "yellow",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7059.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 8073.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Small / yellow",
+    "like": 11,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-small2659752?groupBy=productClicked",
+    "id": "rebag-7726403289265",
+    "productId": "7726403289265",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265975-2_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Small_2D_0002_300x300.jpg?v=1711991448",
+    "folder": "bag/chloe/hudson",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 3970.2,
+    "color": "red",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3970.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4680.0
+      }
+    ],
+    "title": "Drew Bijou Crossbody Bag Quilted Leather Nano / red",
+    "like": 24,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-bijou-crossbody-bag-quilted-leather-nano2598291?groupBy=productClicked",
+    "id": "rebag-7697942708401",
+    "productId": "7697942708401",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/259829-1_20Chloe_20Drew_20Bijou_20Crossbody_20Bag_20Quilted_20Leather_20Nano_2D_0002_300x300.jpg?v=1710782595",
+    "folder": "bag/chloe/drew",
+    "condition": "Good",
+    "size": null
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 6630.0,
+    "color": "blue",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6630.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Mini / blue",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-mini2712944?groupBy=productClicked",
+    "id": "rebag-7914431611057",
+    "productId": "7914431611057",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/271294-4_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Mini_2D_0002_300x300.jpg?v=1714412074",
+    "folder": "bag/chloe/hudson",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3549.0,
+    "color": null,
+    "category": "backpack",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3549.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4251.0
+      }
+    ],
+    "title": "Faye Backpack Quilted Leather Small / neutral",
+    "like": 46,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-quilted-leather-small2422881?groupBy=productClicked",
+    "id": "rebag-7555620667569",
+    "productId": "7555620667569",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/242288-1_20Chloe_20Faye_20Backpack_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1698655911",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 6474.0,
+    "color": "black",
+    "category": "backpack",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6474.0
+      }
+    ],
+    "title": "Faye Backpack Quilted Leather Small / black",
+    "like": 5,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-quilted-leather-small2708901?groupBy=productClicked",
+    "id": "rebag-7870006034609",
+    "productId": "7870006034609",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270890-1_20Chloe_20Faye_20Backpack_20Quilted_20Leather_20Small_2D_0002_300x300.jpg?v=1713810434",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 6552.0,
+    "color": "brown",
+    "category": "bag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6552.0
+      }
+    ],
+    "title": "Multicolor Fringe Hudson Bag Leather Small / brown",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-multicolor-fringe-hudson-bag-leather-small26922121?groupBy=productClicked",
+    "id": "rebag-7941022974129",
+    "productId": "7941022974129",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/269221-21_20Chloe_20Multicolor_20Fringe_20Hudson_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1715618180",
+    "folder": "bag/chloe/hudson",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 5382.0,
+    "color": "red",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 5382.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6318.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 7059.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Mini / red",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-mini2482574?groupBy=productClicked",
+    "id": "rebag-7606990340273",
+    "productId": "7606990340273",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/248257-4_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Small_2D_0002_300x300.jpg?v=1703863368",
+    "folder": "bag/chloe/hudson",
+    "condition": "Very good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3650.4,
+    "color": "pink",
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3650.4
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4524.0
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / pink",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2680426?groupBy=productClicked",
+    "id": "rebag-7726407188657",
+    "productId": "7726407188657",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268042-6_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1711991522",
+    "folder": "bag/chloe/faye",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 4071.6,
+    "color": null,
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4071.6
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5070.0
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / neutral",
+    "like": 7,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2664731?groupBy=productClicked",
+    "id": "rebag-7756744556721",
+    "productId": "7756744556721",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266473-1_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1712599964",
+    "folder": "bag/chloe/faye",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 6591.0,
+    "color": "red",
+    "category": "handbag",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6591.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Leather Small / red",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-leather-small2763475?groupBy=productClicked",
+    "id": "rebag-7941066752177",
+    "productId": "7941066752177",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/276347-5_20Chloe_20Hudson_20Handbag_20Whipstitch_20Leather_20Small_2D_0002_300x300.jpg?v=1715619093",
+    "folder": "bag/chloe/hudson",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4703.4,
+    "color": "pink",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4703.4
+      }
+    ],
+    "title": "Marcie Zip Crossbody Bag Leather Medium / pink",
+    "like": 0,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-zip-crossbody-bag-leather-medium2605382?groupBy=productClicked",
+    "id": "rebag-7870006689969",
+    "productId": "7870006689969",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/260538-2_20Chloe_20Marcie_20Zip_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1713810454",
+    "folder": "bag/chloe/marcie",
+    "condition": "Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "nile",
+    "price": 4633.2,
+    "color": "gray",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4633.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5460.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5772.0
+      }
+    ],
+    "title": "Nile Crossbody Bag Leather Small / gray",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-nile-crossbody-bag-leather-small257664167?groupBy=productClicked",
+    "id": "rebag-7674511786161",
+    "productId": "7674511786161",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/257664-167_20Chloe_20Nile_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1709579854",
+    "folder": "bag/chloe/nile",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3650.4,
+    "color": null,
+    "category": "backpack",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3650.4
+      }
+    ],
+    "title": "Faye Backpack Leather and Suede Mini / neutral",
+    "like": 8,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-backpack-leather-and-suede-mini2703391?groupBy=productClicked",
+    "id": "rebag-7870011736241",
+    "productId": "7870011736241",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270339-1_20Chloe_20Faye_20Backpack_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1713810594",
+    "folder": "bag/chloe/faye",
+    "condition": "Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 4282.2,
+    "color": "red",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4282.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5031.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 5616.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Medium / red",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-medium2531113?groupBy=productClicked",
+    "id": "rebag-7616399278257",
+    "productId": "7616399278257",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253111-3_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Medium_2D_0002_300x300.jpg?v=1705083003",
+    "folder": "bag/chloe/drew",
+    "condition": "Great",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "faye",
+    "price": 3619.2,
+    "color": "brown",
+    "category": "shoulder bag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3619.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4251.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4485.0
+      }
+    ],
+    "title": "Faye Chain Shoulder Bag Leather and Suede Mini / brown",
+    "like": 19,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-faye-chain-shoulder-bag-leather-and-suede-mini25901615?groupBy=productClicked",
+    "id": "rebag-7674444972209",
+    "productId": "7674444972209",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259016-15_20Chloe_20Faye_20Chain_20Shoulder_20Bag_20Leather_20and_20Suede_20Mini_2D_0002_300x300.jpg?v=1709573612",
+    "folder": "bag/chloe/faye",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "hudson",
+    "price": 7605.0,
+    "color": "red",
+    "category": "handbag",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 7605.0
+      }
+    ],
+    "title": "Hudson Handbag Whipstitch Suede Small / red",
+    "like": 10,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-hudson-handbag-whipstitch-suede-small2703251?groupBy=productClicked",
+    "id": "rebag-7787866718385",
+    "productId": "7787866718385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/270325-1_20Chloe_20Hudson_20Handbag_20Whipstitch_20Suede_20Small_2D_0002_300x300.jpg?v=1713199803",
+    "folder": "bag/chloe/hudson",
+    "condition": "Great",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 2878.2,
+    "color": "pink",
+    "category": "crossbody",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 2878.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 3393.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 4212.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather and Suede Small / pink",
+    "like": 42,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-and-suede-small2516492?groupBy=productClicked",
+    "id": "rebag-7607001710769",
+    "productId": "7607001710769",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/251649-2_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20and_20Suede_20Small_2D_0002_300x300.jpg?v=1703864314",
+    "folder": "bag/chloe/drew",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 8190.0,
+    "color": "orange",
+    "category": "satchel",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 8190.0
+      }
+    ],
+    "title": "Marcie Satchel Leather Medium / orange",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-satchel-leather-medium2686824?groupBy=productClicked",
+    "id": "rebag-7787859443889",
+    "productId": "7787859443889",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/268682-4_20Chloe_20Marcie_20Satchel_20Leather_20Medium_2D_0002_300x300.jpg?v=1713199598",
+    "folder": "bag/chloe/marcie",
+    "condition": "Very Good",
+    "size": "medium"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 6006.0,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 6006.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 6942.0
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / brown",
+    "like": 21,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2663271?groupBy=productClicked",
+    "id": "rebag-7726335525041",
+    "productId": "7726335525041",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266327-1_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1711990354",
+    "folder": "bag/chloe/marcie",
+    "condition": "Excellent",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 3549.0,
+    "color": "green",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 3549.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4173.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather Small / green",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-small2654151?groupBy=productClicked",
+    "id": "rebag-7707824619697",
+    "productId": "7707824619697",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265415-1_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1711393491",
+    "folder": "bag/chloe/drew",
+    "condition": "Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 4742.4,
+    "color": "brown",
+    "category": "crossbody",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4742.4
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather and Suede Mini / brown",
+    "like": 3,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-and-suede-mini2726021?groupBy=productClicked",
+    "id": "rebag-7926925918385",
+    "productId": "7926925918385",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/272602-1_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1715013993",
+    "folder": "bag/chloe/drew",
+    "condition": "Great",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "nile",
+    "price": 4212.0,
+    "color": "orange",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4212.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4992.0
+      }
+    ],
+    "title": "Nile Crossbody Bag Leather Mini / orange",
+    "like": 9,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-nile-crossbody-bag-leather-mini2667421?groupBy=productClicked",
+    "id": "rebag-7726399324337",
+    "productId": "7726399324337",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/266742-1_20Chloe_20Nile_20Crossbody_20Bag_20Patent_20Mini_2D_0002_300x300.jpg?v=1711991370",
+    "folder": "bag/chloe/nile",
+    "condition": "Very Good",
+    "size": "mini"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "nile",
+    "price": 4212.0,
+    "color": "orange",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4212.0
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4953.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6552.0
+      }
+    ],
+    "title": "Nile Crossbody Bag Leather Small / orange",
+    "like": 37,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-nile-crossbody-bag-leather-small2534352?groupBy=productClicked",
+    "id": "rebag-7616429392049",
+    "productId": "7616429392049",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/253435-2_20Chloe_20Nile_20Crossbody_20Bag_20Leather_20Small_2D_0002_300x300.jpg?v=1705086996",
+    "folder": "bag/chloe/nile",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4984.2,
+    "color": "blue",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4984.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5850.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6513.0
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / blue",
+    "like": 17,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2595761?groupBy=productClicked",
+    "id": "rebag-7657946054833",
+    "productId": "7657946054833",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259576-1_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1708705672",
+    "folder": "bag/chloe/marcie",
+    "condition": "Excellent",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "drew",
+    "price": 2878.2,
+    "color": "red",
+    "category": "crossbody",
+    "material": "suede",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 2878.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 4017.0
+      }
+    ],
+    "title": "Drew Crossbody Bag Leather and Suede Small / red",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-drew-crossbody-bag-leather-and-suede-small2659755?groupBy=productClicked",
+    "id": "rebag-7726361018545",
+    "productId": "7726361018545",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/files/265975-5_20Chloe_20Drew_20Crossbody_20Bag_20Leather_20and_20Suede_20Small_2D_0002_300x300.jpg?v=1711990787",
+    "folder": "bag/chloe/drew",
+    "condition": "Very Good",
+    "size": "small"
+  },
+  {
+    "brand": "Chloe",
+    "collection": "marcie",
+    "price": 4984.2,
+    "color": "blue",
+    "category": "crossbody",
+    "material": "leather",
+    "trends": [
+      {
+        "date": "2024-05-17",
+        "price": 4984.2
+      },
+      {
+        "date": "2024-04-13",
+        "price": 5850.0
+      },
+      {
+        "date": "2024-03-07",
+        "price": 6513.0
+      }
+    ],
+    "title": "Marcie Basket Crossbody Bag Raffia and Leather Small / blue",
+    "like": 15,
+    "source": "Rebag",
+    "url": "https://shop.rebag.com/products/handbags-chloe-marcie-basket-crossbody-bag-raffia-and-leather-small2595762?groupBy=productClicked",
+    "id": "rebag-7657946415281",
+    "productId": "7657946415281",
+    "currency": "HKD",
+    "image": "https://cdn.shopify.com/s/files/1/0384/0161/products/259576-2_20Chloe_20Marcie_20Basket_20Crossbody_20Bag_20Raffia_20and_20Leather_20Small_2D_0002_300x300.jpg?v=1708705680",
+    "folder": "bag/chloe/marcie",
+    "condition": "Excellent",
+    "size": "small"
+  }
+]

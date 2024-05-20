@@ -3,7 +3,11 @@
 *.jpg
 *.csv
 *.zip
-*.json
+master_mapping.json
+master_mapping_v2.json
+overall_mapping.json
+vc_image_path.json
+brand_model_mapping.json
 *.DS_Store
 /data
 /gcp-sql
